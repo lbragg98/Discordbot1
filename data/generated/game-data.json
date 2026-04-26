@@ -1,0 +1,6090 @@
+{
+  "cards": [
+    {
+      "id": "#001",
+      "baseName": "Unknown #001",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#002",
+      "baseName": "Novalio Lenrag",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#003",
+      "baseName": "Unknown #003",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#004",
+      "baseName": "Unknown #004",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#005",
+      "baseName": "Reisu Chishiki",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#006",
+      "baseName": "Zebsiald",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#007",
+      "baseName": "Unknown #007",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#008",
+      "baseName": "Unknown #008",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#009",
+      "baseName": "Unknown #009",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#010",
+      "baseName": "Unknown #010",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#011",
+      "baseName": "Katara Renlock",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#012",
+      "baseName": "Unknown #012",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#013",
+      "baseName": "The Mayor",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary",
+        "Ultimate",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#014",
+      "baseName": "Archrival",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#015",
+      "baseName": "Magi Instructor",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#016",
+      "baseName": "Blake Backston",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#017",
+      "baseName": "Unknown #017",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#018",
+      "baseName": "Unknown #018",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#019",
+      "baseName": "Nevan Grizfold",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#020",
+      "baseName": "Unknown #020",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#021",
+      "baseName": "Unknown #021",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#022",
+      "baseName": "Unknown #022",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#023",
+      "baseName": "Nendadi Sonshitsu",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#024",
+      "baseName": "Jonnathan \"Jon\" Bovi",
+      "archetype": "Ranger",
+      "subtype": "Artilerist",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#025",
+      "baseName": "Unknown #025",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#026",
+      "baseName": "Unknown #026",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#027",
+      "baseName": "Unknown #027",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#028",
+      "baseName": "The Grand Librarian",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary",
+        "Ultimate",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#029",
+      "baseName": "Rordan Gamsey",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#030",
+      "baseName": "Ranger Instructor",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#031",
+      "baseName": "Unknown #031",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#032",
+      "baseName": "Unknown #032",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#033",
+      "baseName": "Unknown #033",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#034",
+      "baseName": "Unknown #034",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#035",
+      "baseName": "Unknown #035",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#036",
+      "baseName": "Vespertine",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#037",
+      "baseName": "Unknown #037",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#038",
+      "baseName": "Unknown #038",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#039",
+      "baseName": "Unknown #039",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#040",
+      "baseName": "Zeiren Sabor",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#041",
+      "baseName": "Unknown #041",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#042",
+      "baseName": "Lilyore Sabor",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#043",
+      "baseName": "The Foreseted Council",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary",
+        "Ultimate",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#044",
+      "baseName": "Old Mentor",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#045",
+      "baseName": "Patron Sage",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#046",
+      "baseName": "Ernda Sitnased",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#047",
+      "baseName": "Unknown #047",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#048",
+      "baseName": "Unknown #048",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Rare",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#049",
+      "baseName": "Unknown #049",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#050",
+      "baseName": "Fulmin Boldt",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#051",
+      "baseName": "Unknown #051",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#052",
+      "baseName": "Unknown #052",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#053",
+      "baseName": "Unknown #053",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#054",
+      "baseName": "Unknown #054",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#055",
+      "baseName": "Unknown #055",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#056",
+      "baseName": "Unknown #056",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#057",
+      "baseName": "Unknown #057",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#058",
+      "baseName": "King Sitnased",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary",
+        "Ultimate",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#059",
+      "baseName": "Royal Army",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary",
+        "Ultimate"
+      ]
+    },
+    {
+      "id": "#060",
+      "baseName": "Sir Tonie",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#061",
+      "baseName": "Grimoire Scribe",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#062",
+      "baseName": "Hunting Guide",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#063",
+      "baseName": "Johnny Lawler",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#064",
+      "baseName": "Pocket Dimension Pouch",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#065",
+      "baseName": "Bounty Hunter",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Rare",
+        "Rare",
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#066",
+      "baseName": "Thread of Fate",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Epic",
+        "Epic",
+        "Superior",
+        "Superior",
+        "Legendary",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#067",
+      "baseName": "Kuh Nite",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#068",
+      "baseName": "Fisty Cuff",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#069",
+      "baseName": "Chop Suey",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#070",
+      "baseName": "Arlock",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#071",
+      "baseName": "Drag Cast",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#072",
+      "baseName": "Jokey",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#073",
+      "baseName": "Archie",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#074",
+      "baseName": "Stealie",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#075",
+      "baseName": "Bla Ster",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#076",
+      "baseName": "Broderick",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#077",
+      "baseName": "Min Yin",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#078",
+      "baseName": "War Ship",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Estaloy",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#079",
+      "baseName": "Unknown #079",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#080",
+      "baseName": "Unknown #080",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#081",
+      "baseName": "Unknown #081",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#082",
+      "baseName": "Unknown #082",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#083",
+      "baseName": "Unknown #083",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#084",
+      "baseName": "Unknown #084",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#085",
+      "baseName": "Unknown #085",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#086",
+      "baseName": "Unknown #086",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#087",
+      "baseName": "Unknown #087",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#088",
+      "baseName": "Unknown #088",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#089",
+      "baseName": "Unknown #089",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#090",
+      "baseName": "Unknown #090",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Stroodleton",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#091",
+      "baseName": "Booster F",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#092",
+      "baseName": "Booster G",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#093",
+      "baseName": "Booster H",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#094",
+      "baseName": "Booster I",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#095",
+      "baseName": "Booster J",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior"
+      ]
+    },
+    {
+      "id": "#096",
+      "baseName": "Unknown #096",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#097",
+      "baseName": "Unknown #097",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#098",
+      "baseName": "Unknown #098",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#099",
+      "baseName": "Unknown #099",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#100",
+      "baseName": "Unknown #100",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#101",
+      "baseName": "Unknown #101",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#102",
+      "baseName": "Unknown #102",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#103",
+      "baseName": "Unknown #103",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#104",
+      "baseName": "Unknown #104",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#105",
+      "baseName": "Unknown #105",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#106",
+      "baseName": "Unknown #106",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#107",
+      "baseName": "Unknown #107",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Firthaneer",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#108",
+      "baseName": "Sir Novian",
+      "archetype": "Warrior",
+      "subtype": "Knight",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#109",
+      "baseName": "Sir Pinlar",
+      "archetype": "Warrior",
+      "subtype": "Brawler",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#110",
+      "baseName": "Sir Lee",
+      "archetype": "Warrior",
+      "subtype": "Martial Artist",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#111",
+      "baseName": "Sir Linmer",
+      "archetype": "Mage",
+      "subtype": "Wizard",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#112",
+      "baseName": "Sir Brandle",
+      "archetype": "Mage",
+      "subtype": "Sorcerer",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#113",
+      "baseName": "Sir Morden",
+      "archetype": "Mage",
+      "subtype": "Bard",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#114",
+      "baseName": "Sir Quell",
+      "archetype": "Ranger",
+      "subtype": "Archer",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#115",
+      "baseName": "Sir Cornthinell",
+      "archetype": "Ranger",
+      "subtype": "Thief",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#116",
+      "baseName": "Sir Warshton",
+      "archetype": "Ranger",
+      "subtype": "Artillerist",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#117",
+      "baseName": "Sir Loxin",
+      "archetype": "Patron",
+      "subtype": "Paladin",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#118",
+      "baseName": "Sir Krang",
+      "archetype": "Patron",
+      "subtype": "Warlock",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#119",
+      "baseName": "Sir Ichroth",
+      "archetype": "Patron",
+      "subtype": "Cleric",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#120",
+      "baseName": "The Bank of Nolrenta",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Nolrenta",
+      "rarityPath": [
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#121",
+      "baseName": "Extra Pockets",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Danterian",
+      "rarityPath": [
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#122",
+      "baseName": "Crystal Miner",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#123",
+      "baseName": "Scribe's Assistant",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    },
+    {
+      "id": "#124",
+      "baseName": "Mimic Checker",
+      "archetype": "Support",
+      "subtype": "Booster",
+      "faction": "Unaligned",
+      "rarityPath": [
+        "Uncommon",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Superior",
+        "Legendary"
+      ]
+    }
+  ],
+  "pullOdds": {
+    "rarityByTier": {
+      "F2P": {
+        "Common": 0,
+        "Uncommon": 0,
+        "Rare": 0,
+        "Epic": 0,
+        "Superior": 0,
+        "Legendary": 0,
+        "Ultimate": 0
+      },
+      "T1": {
+        "Common": 0,
+        "Uncommon": 0,
+        "Rare": 0,
+        "Epic": 0,
+        "Superior": 0,
+        "Legendary": 0,
+        "Ultimate": 0
+      },
+      "T2": {
+        "Common": 0,
+        "Uncommon": 0,
+        "Rare": 0,
+        "Epic": 0,
+        "Superior": 0,
+        "Legendary": 0,
+        "Ultimate": 0
+      },
+      "T3": {
+        "Common": 0,
+        "Uncommon": 0,
+        "Rare": 0,
+        "Epic": 0,
+        "Superior": 0,
+        "Legendary": 0,
+        "Ultimate": 0
+      }
+    },
+    "foilOneInByTier": {
+      "F2P": {
+        "Common": 1000,
+        "Uncommon": 1000,
+        "Rare": 2500,
+        "Epic": 5000,
+        "Superior": 7000,
+        "Legendary": 10000,
+        "Ultimate": 12000
+      },
+      "T1": {
+        "Common": 900,
+        "Uncommon": 900,
+        "Rare": 2000,
+        "Epic": 4000,
+        "Superior": 6000,
+        "Legendary": 8000,
+        "Ultimate": 10000
+      },
+      "T2": {
+        "Common": 800,
+        "Uncommon": 800,
+        "Rare": 1500,
+        "Epic": 3000,
+        "Superior": 5000,
+        "Legendary": 6000,
+        "Ultimate": 8000
+      },
+      "T3": {
+        "Common": 700,
+        "Uncommon": 700,
+        "Rare": 1000,
+        "Epic": 2500,
+        "Superior": 4000,
+        "Legendary": 5000,
+        "Ultimate": 6000
+      }
+    }
+  },
+  "evolutionShardRequirements": {
+    "1": 25,
+    "2": 50,
+    "3": 100,
+    "4": 250,
+    "5": 500
+  },
+  "evolutionCostByRarity": {
+    "Common": {
+      "gold": 10000,
+      "crystals": 0,
+      "fame": 0
+    },
+    "Uncommon": {
+      "gold": 25000,
+      "crystals": 0,
+      "fame": 0
+    },
+    "Rare": {
+      "gold": 50000,
+      "crystals": 0,
+      "fame": 0
+    },
+    "Epic": {
+      "gold": 100000,
+      "crystals": 50000,
+      "fame": 0
+    },
+    "Superior": {
+      "gold": 250000,
+      "crystals": 100000,
+      "fame": 10000
+    },
+    "Legendary": {
+      "gold": 500000,
+      "crystals": 250000,
+      "fame": 50000
+    },
+    "Ultimate": {
+      "gold": 1000000,
+      "crystals": 500000,
+      "fame": 250000
+    }
+  },
+  "combatStatsByRarity": {
+    "Common": {
+      "strengthMin": 100,
+      "attackPerLevel": 10,
+      "defensePerLevel": 10,
+      "speedPerLevel": 10,
+      "healthPerLevel": 25,
+      "xpPerLevel": 100
+    },
+    "Uncommon": {
+      "strengthMin": 1000,
+      "attackPerLevel": 25,
+      "defensePerLevel": 25,
+      "speedPerLevel": 25,
+      "healthPerLevel": 50,
+      "xpPerLevel": 250
+    },
+    "Rare": {
+      "strengthMin": 6250,
+      "attackPerLevel": 50,
+      "defensePerLevel": 50,
+      "speedPerLevel": 50,
+      "healthPerLevel": 100,
+      "xpPerLevel": 500
+    },
+    "Epic": {
+      "strengthMin": 25000,
+      "attackPerLevel": 100,
+      "defensePerLevel": 100,
+      "speedPerLevel": 100,
+      "healthPerLevel": 250,
+      "xpPerLevel": 1000
+    },
+    "Superior": {
+      "strengthMin": 100000,
+      "attackPerLevel": 250,
+      "defensePerLevel": 250,
+      "speedPerLevel": 250,
+      "healthPerLevel": 500,
+      "xpPerLevel": 2500
+    },
+    "Legendary": {
+      "strengthMin": 500000,
+      "attackPerLevel": 500,
+      "defensePerLevel": 500,
+      "speedPerLevel": 500,
+      "healthPerLevel": 1000,
+      "xpPerLevel": 5000
+    },
+    "Ultimate": {
+      "strengthMin": 2500000,
+      "attackPerLevel": 1000,
+      "defensePerLevel": 1000,
+      "speedPerLevel": 1000,
+      "healthPerLevel": 2500,
+      "xpPerLevel": 10000
+    }
+  },
+  "pveWaves": [
+    {
+      "wave": 1,
+      "enemyPower": 1700,
+      "rewardGold": 145,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 120
+    },
+    {
+      "wave": 2,
+      "enemyPower": 2600,
+      "rewardGold": 190,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 140
+    },
+    {
+      "wave": 3,
+      "enemyPower": 3500,
+      "rewardGold": 235,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 160
+    },
+    {
+      "wave": 4,
+      "enemyPower": 4400,
+      "rewardGold": 280,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 180
+    },
+    {
+      "wave": 5,
+      "enemyPower": 5300,
+      "rewardGold": 325,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 200
+    },
+    {
+      "wave": 6,
+      "enemyPower": 6200,
+      "rewardGold": 370,
+      "rewardCrystals": 0,
+      "rewardFame": 0,
+      "rewardXp": 220
+    },
+    {
+      "wave": 7,
+      "enemyPower": 7100,
+      "rewardGold": 415,
+      "rewardCrystals": 0,
+      "rewardFame": 20,
+      "rewardXp": 240
+    },
+    {
+      "wave": 8,
+      "enemyPower": 8000,
+      "rewardGold": 460,
+      "rewardCrystals": 92,
+      "rewardFame": 23,
+      "rewardXp": 260
+    },
+    {
+      "wave": 9,
+      "enemyPower": 8900,
+      "rewardGold": 505,
+      "rewardCrystals": 101,
+      "rewardFame": 25,
+      "rewardXp": 280
+    },
+    {
+      "wave": 10,
+      "enemyPower": 9800,
+      "rewardGold": 550,
+      "rewardCrystals": 110,
+      "rewardFame": 27,
+      "rewardXp": 300
+    },
+    {
+      "wave": 11,
+      "enemyPower": 10700,
+      "rewardGold": 595,
+      "rewardCrystals": 119,
+      "rewardFame": 29,
+      "rewardXp": 320
+    },
+    {
+      "wave": 12,
+      "enemyPower": 11600,
+      "rewardGold": 640,
+      "rewardCrystals": 128,
+      "rewardFame": 32,
+      "rewardXp": 340
+    },
+    {
+      "wave": 13,
+      "enemyPower": 12500,
+      "rewardGold": 685,
+      "rewardCrystals": 137,
+      "rewardFame": 34,
+      "rewardXp": 360
+    },
+    {
+      "wave": 14,
+      "enemyPower": 13400,
+      "rewardGold": 730,
+      "rewardCrystals": 146,
+      "rewardFame": 36,
+      "rewardXp": 380
+    },
+    {
+      "wave": 15,
+      "enemyPower": 14300,
+      "rewardGold": 775,
+      "rewardCrystals": 155,
+      "rewardFame": 38,
+      "rewardXp": 400
+    },
+    {
+      "wave": 16,
+      "enemyPower": 15200,
+      "rewardGold": 820,
+      "rewardCrystals": 164,
+      "rewardFame": 41,
+      "rewardXp": 420
+    },
+    {
+      "wave": 17,
+      "enemyPower": 16100,
+      "rewardGold": 865,
+      "rewardCrystals": 173,
+      "rewardFame": 43,
+      "rewardXp": 440
+    },
+    {
+      "wave": 18,
+      "enemyPower": 17000,
+      "rewardGold": 910,
+      "rewardCrystals": 182,
+      "rewardFame": 45,
+      "rewardXp": 460
+    },
+    {
+      "wave": 19,
+      "enemyPower": 17900,
+      "rewardGold": 955,
+      "rewardCrystals": 191,
+      "rewardFame": 47,
+      "rewardXp": 480
+    },
+    {
+      "wave": 20,
+      "enemyPower": 18800,
+      "rewardGold": 1000,
+      "rewardCrystals": 200,
+      "rewardFame": 50,
+      "rewardXp": 500
+    },
+    {
+      "wave": 21,
+      "enemyPower": 19700,
+      "rewardGold": 1045,
+      "rewardCrystals": 209,
+      "rewardFame": 52,
+      "rewardXp": 520
+    },
+    {
+      "wave": 22,
+      "enemyPower": 20600,
+      "rewardGold": 1090,
+      "rewardCrystals": 218,
+      "rewardFame": 54,
+      "rewardXp": 540
+    },
+    {
+      "wave": 23,
+      "enemyPower": 21500,
+      "rewardGold": 1135,
+      "rewardCrystals": 227,
+      "rewardFame": 56,
+      "rewardXp": 560
+    },
+    {
+      "wave": 24,
+      "enemyPower": 22400,
+      "rewardGold": 1180,
+      "rewardCrystals": 236,
+      "rewardFame": 59,
+      "rewardXp": 580
+    },
+    {
+      "wave": 25,
+      "enemyPower": 23300,
+      "rewardGold": 1225,
+      "rewardCrystals": 245,
+      "rewardFame": 61,
+      "rewardXp": 600
+    },
+    {
+      "wave": 26,
+      "enemyPower": 24200,
+      "rewardGold": 1270,
+      "rewardCrystals": 254,
+      "rewardFame": 63,
+      "rewardXp": 620
+    },
+    {
+      "wave": 27,
+      "enemyPower": 25100,
+      "rewardGold": 1315,
+      "rewardCrystals": 263,
+      "rewardFame": 65,
+      "rewardXp": 640
+    },
+    {
+      "wave": 28,
+      "enemyPower": 26000,
+      "rewardGold": 1360,
+      "rewardCrystals": 272,
+      "rewardFame": 68,
+      "rewardXp": 660
+    },
+    {
+      "wave": 29,
+      "enemyPower": 26900,
+      "rewardGold": 1405,
+      "rewardCrystals": 281,
+      "rewardFame": 70,
+      "rewardXp": 680
+    },
+    {
+      "wave": 30,
+      "enemyPower": 27800,
+      "rewardGold": 1450,
+      "rewardCrystals": 290,
+      "rewardFame": 72,
+      "rewardXp": 700
+    },
+    {
+      "wave": 31,
+      "enemyPower": 28700,
+      "rewardGold": 1495,
+      "rewardCrystals": 299,
+      "rewardFame": 74,
+      "rewardXp": 720
+    },
+    {
+      "wave": 32,
+      "enemyPower": 29600,
+      "rewardGold": 1540,
+      "rewardCrystals": 308,
+      "rewardFame": 77,
+      "rewardXp": 740
+    },
+    {
+      "wave": 33,
+      "enemyPower": 30500,
+      "rewardGold": 1585,
+      "rewardCrystals": 317,
+      "rewardFame": 79,
+      "rewardXp": 760
+    },
+    {
+      "wave": 34,
+      "enemyPower": 31400,
+      "rewardGold": 1630,
+      "rewardCrystals": 326,
+      "rewardFame": 81,
+      "rewardXp": 780
+    },
+    {
+      "wave": 35,
+      "enemyPower": 32300,
+      "rewardGold": 1675,
+      "rewardCrystals": 335,
+      "rewardFame": 83,
+      "rewardXp": 800
+    },
+    {
+      "wave": 36,
+      "enemyPower": 33200,
+      "rewardGold": 1720,
+      "rewardCrystals": 344,
+      "rewardFame": 86,
+      "rewardXp": 820
+    },
+    {
+      "wave": 37,
+      "enemyPower": 34100,
+      "rewardGold": 1765,
+      "rewardCrystals": 353,
+      "rewardFame": 88,
+      "rewardXp": 840
+    },
+    {
+      "wave": 38,
+      "enemyPower": 35000,
+      "rewardGold": 1810,
+      "rewardCrystals": 362,
+      "rewardFame": 90,
+      "rewardXp": 860
+    },
+    {
+      "wave": 39,
+      "enemyPower": 35900,
+      "rewardGold": 1855,
+      "rewardCrystals": 371,
+      "rewardFame": 92,
+      "rewardXp": 880
+    },
+    {
+      "wave": 40,
+      "enemyPower": 36800,
+      "rewardGold": 1900,
+      "rewardCrystals": 380,
+      "rewardFame": 95,
+      "rewardXp": 900
+    },
+    {
+      "wave": 41,
+      "enemyPower": 37700,
+      "rewardGold": 1945,
+      "rewardCrystals": 389,
+      "rewardFame": 97,
+      "rewardXp": 920
+    },
+    {
+      "wave": 42,
+      "enemyPower": 38600,
+      "rewardGold": 1990,
+      "rewardCrystals": 398,
+      "rewardFame": 99,
+      "rewardXp": 940
+    },
+    {
+      "wave": 43,
+      "enemyPower": 39500,
+      "rewardGold": 2035,
+      "rewardCrystals": 407,
+      "rewardFame": 101,
+      "rewardXp": 960
+    },
+    {
+      "wave": 44,
+      "enemyPower": 40400,
+      "rewardGold": 2080,
+      "rewardCrystals": 416,
+      "rewardFame": 104,
+      "rewardXp": 980
+    },
+    {
+      "wave": 45,
+      "enemyPower": 41300,
+      "rewardGold": 2125,
+      "rewardCrystals": 425,
+      "rewardFame": 106,
+      "rewardXp": 1000
+    },
+    {
+      "wave": 46,
+      "enemyPower": 42200,
+      "rewardGold": 2170,
+      "rewardCrystals": 434,
+      "rewardFame": 108,
+      "rewardXp": 1020
+    },
+    {
+      "wave": 47,
+      "enemyPower": 43100,
+      "rewardGold": 2215,
+      "rewardCrystals": 443,
+      "rewardFame": 110,
+      "rewardXp": 1040
+    },
+    {
+      "wave": 48,
+      "enemyPower": 44000,
+      "rewardGold": 2260,
+      "rewardCrystals": 452,
+      "rewardFame": 113,
+      "rewardXp": 1060
+    },
+    {
+      "wave": 49,
+      "enemyPower": 44900,
+      "rewardGold": 2305,
+      "rewardCrystals": 461,
+      "rewardFame": 115,
+      "rewardXp": 1080
+    },
+    {
+      "wave": 50,
+      "enemyPower": 45800,
+      "rewardGold": 2350,
+      "rewardCrystals": 470,
+      "rewardFame": 117,
+      "rewardXp": 1100
+    },
+    {
+      "wave": 51,
+      "enemyPower": 46700,
+      "rewardGold": 2395,
+      "rewardCrystals": 479,
+      "rewardFame": 119,
+      "rewardXp": 1120
+    },
+    {
+      "wave": 52,
+      "enemyPower": 47600,
+      "rewardGold": 2440,
+      "rewardCrystals": 488,
+      "rewardFame": 122,
+      "rewardXp": 1140
+    },
+    {
+      "wave": 53,
+      "enemyPower": 48500,
+      "rewardGold": 2485,
+      "rewardCrystals": 497,
+      "rewardFame": 124,
+      "rewardXp": 1160
+    },
+    {
+      "wave": 54,
+      "enemyPower": 49400,
+      "rewardGold": 2530,
+      "rewardCrystals": 506,
+      "rewardFame": 126,
+      "rewardXp": 1180
+    },
+    {
+      "wave": 55,
+      "enemyPower": 50300,
+      "rewardGold": 2575,
+      "rewardCrystals": 515,
+      "rewardFame": 128,
+      "rewardXp": 1200
+    },
+    {
+      "wave": 56,
+      "enemyPower": 51200,
+      "rewardGold": 2620,
+      "rewardCrystals": 524,
+      "rewardFame": 131,
+      "rewardXp": 1220
+    },
+    {
+      "wave": 57,
+      "enemyPower": 52100,
+      "rewardGold": 2665,
+      "rewardCrystals": 533,
+      "rewardFame": 133,
+      "rewardXp": 1240
+    },
+    {
+      "wave": 58,
+      "enemyPower": 53000,
+      "rewardGold": 2710,
+      "rewardCrystals": 542,
+      "rewardFame": 135,
+      "rewardXp": 1260
+    },
+    {
+      "wave": 59,
+      "enemyPower": 53900,
+      "rewardGold": 2755,
+      "rewardCrystals": 551,
+      "rewardFame": 137,
+      "rewardXp": 1280
+    },
+    {
+      "wave": 60,
+      "enemyPower": 54800,
+      "rewardGold": 2800,
+      "rewardCrystals": 560,
+      "rewardFame": 140,
+      "rewardXp": 1300
+    },
+    {
+      "wave": 61,
+      "enemyPower": 55700,
+      "rewardGold": 2845,
+      "rewardCrystals": 569,
+      "rewardFame": 142,
+      "rewardXp": 1320
+    },
+    {
+      "wave": 62,
+      "enemyPower": 56600,
+      "rewardGold": 2890,
+      "rewardCrystals": 578,
+      "rewardFame": 144,
+      "rewardXp": 1340
+    },
+    {
+      "wave": 63,
+      "enemyPower": 57500,
+      "rewardGold": 2935,
+      "rewardCrystals": 587,
+      "rewardFame": 146,
+      "rewardXp": 1360
+    },
+    {
+      "wave": 64,
+      "enemyPower": 58400,
+      "rewardGold": 2980,
+      "rewardCrystals": 596,
+      "rewardFame": 149,
+      "rewardXp": 1380
+    },
+    {
+      "wave": 65,
+      "enemyPower": 59300,
+      "rewardGold": 3025,
+      "rewardCrystals": 605,
+      "rewardFame": 151,
+      "rewardXp": 1400
+    },
+    {
+      "wave": 66,
+      "enemyPower": 60200,
+      "rewardGold": 3070,
+      "rewardCrystals": 614,
+      "rewardFame": 153,
+      "rewardXp": 1420
+    },
+    {
+      "wave": 67,
+      "enemyPower": 61100,
+      "rewardGold": 3115,
+      "rewardCrystals": 623,
+      "rewardFame": 155,
+      "rewardXp": 1440
+    },
+    {
+      "wave": 68,
+      "enemyPower": 62000,
+      "rewardGold": 3160,
+      "rewardCrystals": 632,
+      "rewardFame": 158,
+      "rewardXp": 1460
+    },
+    {
+      "wave": 69,
+      "enemyPower": 62900,
+      "rewardGold": 3205,
+      "rewardCrystals": 641,
+      "rewardFame": 160,
+      "rewardXp": 1480
+    },
+    {
+      "wave": 70,
+      "enemyPower": 63800,
+      "rewardGold": 3250,
+      "rewardCrystals": 650,
+      "rewardFame": 162,
+      "rewardXp": 1500
+    },
+    {
+      "wave": 71,
+      "enemyPower": 64700,
+      "rewardGold": 3295,
+      "rewardCrystals": 659,
+      "rewardFame": 164,
+      "rewardXp": 1520
+    },
+    {
+      "wave": 72,
+      "enemyPower": 65600,
+      "rewardGold": 3340,
+      "rewardCrystals": 668,
+      "rewardFame": 167,
+      "rewardXp": 1540
+    },
+    {
+      "wave": 73,
+      "enemyPower": 66500,
+      "rewardGold": 3385,
+      "rewardCrystals": 677,
+      "rewardFame": 169,
+      "rewardXp": 1560
+    },
+    {
+      "wave": 74,
+      "enemyPower": 67400,
+      "rewardGold": 3430,
+      "rewardCrystals": 686,
+      "rewardFame": 171,
+      "rewardXp": 1580
+    },
+    {
+      "wave": 75,
+      "enemyPower": 68300,
+      "rewardGold": 3475,
+      "rewardCrystals": 695,
+      "rewardFame": 173,
+      "rewardXp": 1600
+    },
+    {
+      "wave": 76,
+      "enemyPower": 69200,
+      "rewardGold": 3520,
+      "rewardCrystals": 704,
+      "rewardFame": 176,
+      "rewardXp": 1620
+    },
+    {
+      "wave": 77,
+      "enemyPower": 70100,
+      "rewardGold": 3565,
+      "rewardCrystals": 713,
+      "rewardFame": 178,
+      "rewardXp": 1640
+    },
+    {
+      "wave": 78,
+      "enemyPower": 71000,
+      "rewardGold": 3610,
+      "rewardCrystals": 722,
+      "rewardFame": 180,
+      "rewardXp": 1660
+    },
+    {
+      "wave": 79,
+      "enemyPower": 71900,
+      "rewardGold": 3655,
+      "rewardCrystals": 731,
+      "rewardFame": 182,
+      "rewardXp": 1680
+    },
+    {
+      "wave": 80,
+      "enemyPower": 72800,
+      "rewardGold": 3700,
+      "rewardCrystals": 740,
+      "rewardFame": 185,
+      "rewardXp": 1700
+    },
+    {
+      "wave": 81,
+      "enemyPower": 73700,
+      "rewardGold": 3745,
+      "rewardCrystals": 749,
+      "rewardFame": 187,
+      "rewardXp": 1720
+    },
+    {
+      "wave": 82,
+      "enemyPower": 74600,
+      "rewardGold": 3790,
+      "rewardCrystals": 758,
+      "rewardFame": 189,
+      "rewardXp": 1740
+    },
+    {
+      "wave": 83,
+      "enemyPower": 75500,
+      "rewardGold": 3835,
+      "rewardCrystals": 767,
+      "rewardFame": 191,
+      "rewardXp": 1760
+    },
+    {
+      "wave": 84,
+      "enemyPower": 76400,
+      "rewardGold": 3880,
+      "rewardCrystals": 776,
+      "rewardFame": 194,
+      "rewardXp": 1780
+    },
+    {
+      "wave": 85,
+      "enemyPower": 77300,
+      "rewardGold": 3925,
+      "rewardCrystals": 785,
+      "rewardFame": 196,
+      "rewardXp": 1800
+    },
+    {
+      "wave": 86,
+      "enemyPower": 78200,
+      "rewardGold": 3970,
+      "rewardCrystals": 794,
+      "rewardFame": 198,
+      "rewardXp": 1820
+    },
+    {
+      "wave": 87,
+      "enemyPower": 79100,
+      "rewardGold": 4015,
+      "rewardCrystals": 803,
+      "rewardFame": 200,
+      "rewardXp": 1840
+    },
+    {
+      "wave": 88,
+      "enemyPower": 80000,
+      "rewardGold": 4060,
+      "rewardCrystals": 812,
+      "rewardFame": 203,
+      "rewardXp": 1860
+    },
+    {
+      "wave": 89,
+      "enemyPower": 80900,
+      "rewardGold": 4105,
+      "rewardCrystals": 821,
+      "rewardFame": 205,
+      "rewardXp": 1880
+    },
+    {
+      "wave": 90,
+      "enemyPower": 81800,
+      "rewardGold": 4150,
+      "rewardCrystals": 830,
+      "rewardFame": 207,
+      "rewardXp": 1900
+    },
+    {
+      "wave": 91,
+      "enemyPower": 82700,
+      "rewardGold": 4195,
+      "rewardCrystals": 839,
+      "rewardFame": 209,
+      "rewardXp": 1920
+    },
+    {
+      "wave": 92,
+      "enemyPower": 83600,
+      "rewardGold": 4240,
+      "rewardCrystals": 848,
+      "rewardFame": 212,
+      "rewardXp": 1940
+    },
+    {
+      "wave": 93,
+      "enemyPower": 84500,
+      "rewardGold": 4285,
+      "rewardCrystals": 857,
+      "rewardFame": 214,
+      "rewardXp": 1960
+    },
+    {
+      "wave": 94,
+      "enemyPower": 85400,
+      "rewardGold": 4330,
+      "rewardCrystals": 866,
+      "rewardFame": 216,
+      "rewardXp": 1980
+    },
+    {
+      "wave": 95,
+      "enemyPower": 86300,
+      "rewardGold": 4375,
+      "rewardCrystals": 875,
+      "rewardFame": 218,
+      "rewardXp": 2000
+    },
+    {
+      "wave": 96,
+      "enemyPower": 87200,
+      "rewardGold": 4420,
+      "rewardCrystals": 884,
+      "rewardFame": 221,
+      "rewardXp": 2020
+    },
+    {
+      "wave": 97,
+      "enemyPower": 88100,
+      "rewardGold": 4465,
+      "rewardCrystals": 893,
+      "rewardFame": 223,
+      "rewardXp": 2040
+    },
+    {
+      "wave": 98,
+      "enemyPower": 89000,
+      "rewardGold": 4510,
+      "rewardCrystals": 902,
+      "rewardFame": 225,
+      "rewardXp": 2060
+    },
+    {
+      "wave": 99,
+      "enemyPower": 89900,
+      "rewardGold": 4555,
+      "rewardCrystals": 911,
+      "rewardFame": 227,
+      "rewardXp": 2080
+    },
+    {
+      "wave": 100,
+      "enemyPower": 90800,
+      "rewardGold": 4600,
+      "rewardCrystals": 920,
+      "rewardFame": 230,
+      "rewardXp": 2100
+    },
+    {
+      "wave": 101,
+      "enemyPower": 91700,
+      "rewardGold": 4645,
+      "rewardCrystals": 929,
+      "rewardFame": 232,
+      "rewardXp": 2120
+    },
+    {
+      "wave": 102,
+      "enemyPower": 92600,
+      "rewardGold": 4690,
+      "rewardCrystals": 938,
+      "rewardFame": 234,
+      "rewardXp": 2140
+    },
+    {
+      "wave": 103,
+      "enemyPower": 93500,
+      "rewardGold": 4735,
+      "rewardCrystals": 947,
+      "rewardFame": 236,
+      "rewardXp": 2160
+    },
+    {
+      "wave": 104,
+      "enemyPower": 94400,
+      "rewardGold": 4780,
+      "rewardCrystals": 956,
+      "rewardFame": 239,
+      "rewardXp": 2180
+    },
+    {
+      "wave": 105,
+      "enemyPower": 95300,
+      "rewardGold": 4825,
+      "rewardCrystals": 965,
+      "rewardFame": 241,
+      "rewardXp": 2200
+    },
+    {
+      "wave": 106,
+      "enemyPower": 96200,
+      "rewardGold": 4870,
+      "rewardCrystals": 974,
+      "rewardFame": 243,
+      "rewardXp": 2220
+    },
+    {
+      "wave": 107,
+      "enemyPower": 97100,
+      "rewardGold": 4915,
+      "rewardCrystals": 983,
+      "rewardFame": 245,
+      "rewardXp": 2240
+    },
+    {
+      "wave": 108,
+      "enemyPower": 98000,
+      "rewardGold": 4960,
+      "rewardCrystals": 992,
+      "rewardFame": 248,
+      "rewardXp": 2260
+    },
+    {
+      "wave": 109,
+      "enemyPower": 98900,
+      "rewardGold": 5005,
+      "rewardCrystals": 1001,
+      "rewardFame": 250,
+      "rewardXp": 2280
+    },
+    {
+      "wave": 110,
+      "enemyPower": 99800,
+      "rewardGold": 5050,
+      "rewardCrystals": 1010,
+      "rewardFame": 252,
+      "rewardXp": 2300
+    },
+    {
+      "wave": 111,
+      "enemyPower": 100700,
+      "rewardGold": 5095,
+      "rewardCrystals": 1019,
+      "rewardFame": 254,
+      "rewardXp": 2320
+    },
+    {
+      "wave": 112,
+      "enemyPower": 101600,
+      "rewardGold": 5140,
+      "rewardCrystals": 1028,
+      "rewardFame": 257,
+      "rewardXp": 2340
+    },
+    {
+      "wave": 113,
+      "enemyPower": 102500,
+      "rewardGold": 5185,
+      "rewardCrystals": 1037,
+      "rewardFame": 259,
+      "rewardXp": 2360
+    },
+    {
+      "wave": 114,
+      "enemyPower": 103400,
+      "rewardGold": 5230,
+      "rewardCrystals": 1046,
+      "rewardFame": 261,
+      "rewardXp": 2380
+    },
+    {
+      "wave": 115,
+      "enemyPower": 104300,
+      "rewardGold": 5275,
+      "rewardCrystals": 1055,
+      "rewardFame": 263,
+      "rewardXp": 2400
+    },
+    {
+      "wave": 116,
+      "enemyPower": 105200,
+      "rewardGold": 5320,
+      "rewardCrystals": 1064,
+      "rewardFame": 266,
+      "rewardXp": 2420
+    },
+    {
+      "wave": 117,
+      "enemyPower": 106100,
+      "rewardGold": 5365,
+      "rewardCrystals": 1073,
+      "rewardFame": 268,
+      "rewardXp": 2440
+    },
+    {
+      "wave": 118,
+      "enemyPower": 107000,
+      "rewardGold": 5410,
+      "rewardCrystals": 1082,
+      "rewardFame": 270,
+      "rewardXp": 2460
+    },
+    {
+      "wave": 119,
+      "enemyPower": 107900,
+      "rewardGold": 5455,
+      "rewardCrystals": 1091,
+      "rewardFame": 272,
+      "rewardXp": 2480
+    },
+    {
+      "wave": 120,
+      "enemyPower": 108800,
+      "rewardGold": 5500,
+      "rewardCrystals": 1100,
+      "rewardFame": 275,
+      "rewardXp": 2500
+    },
+    {
+      "wave": 121,
+      "enemyPower": 109700,
+      "rewardGold": 5545,
+      "rewardCrystals": 1109,
+      "rewardFame": 277,
+      "rewardXp": 2520
+    },
+    {
+      "wave": 122,
+      "enemyPower": 110600,
+      "rewardGold": 5590,
+      "rewardCrystals": 1118,
+      "rewardFame": 279,
+      "rewardXp": 2540
+    },
+    {
+      "wave": 123,
+      "enemyPower": 111500,
+      "rewardGold": 5635,
+      "rewardCrystals": 1127,
+      "rewardFame": 281,
+      "rewardXp": 2560
+    },
+    {
+      "wave": 124,
+      "enemyPower": 112400,
+      "rewardGold": 5680,
+      "rewardCrystals": 1136,
+      "rewardFame": 284,
+      "rewardXp": 2580
+    },
+    {
+      "wave": 125,
+      "enemyPower": 113300,
+      "rewardGold": 5725,
+      "rewardCrystals": 1145,
+      "rewardFame": 286,
+      "rewardXp": 2600
+    },
+    {
+      "wave": 126,
+      "enemyPower": 114200,
+      "rewardGold": 5770,
+      "rewardCrystals": 1154,
+      "rewardFame": 288,
+      "rewardXp": 2620
+    },
+    {
+      "wave": 127,
+      "enemyPower": 115100,
+      "rewardGold": 5815,
+      "rewardCrystals": 1163,
+      "rewardFame": 290,
+      "rewardXp": 2640
+    },
+    {
+      "wave": 128,
+      "enemyPower": 116000,
+      "rewardGold": 5860,
+      "rewardCrystals": 1172,
+      "rewardFame": 293,
+      "rewardXp": 2660
+    },
+    {
+      "wave": 129,
+      "enemyPower": 116900,
+      "rewardGold": 5905,
+      "rewardCrystals": 1181,
+      "rewardFame": 295,
+      "rewardXp": 2680
+    },
+    {
+      "wave": 130,
+      "enemyPower": 117800,
+      "rewardGold": 5950,
+      "rewardCrystals": 1190,
+      "rewardFame": 297,
+      "rewardXp": 2700
+    },
+    {
+      "wave": 131,
+      "enemyPower": 118700,
+      "rewardGold": 5995,
+      "rewardCrystals": 1199,
+      "rewardFame": 299,
+      "rewardXp": 2720
+    },
+    {
+      "wave": 132,
+      "enemyPower": 119600,
+      "rewardGold": 6040,
+      "rewardCrystals": 1208,
+      "rewardFame": 302,
+      "rewardXp": 2740
+    },
+    {
+      "wave": 133,
+      "enemyPower": 120500,
+      "rewardGold": 6085,
+      "rewardCrystals": 1217,
+      "rewardFame": 304,
+      "rewardXp": 2760
+    },
+    {
+      "wave": 134,
+      "enemyPower": 121400,
+      "rewardGold": 6130,
+      "rewardCrystals": 1226,
+      "rewardFame": 306,
+      "rewardXp": 2780
+    },
+    {
+      "wave": 135,
+      "enemyPower": 122300,
+      "rewardGold": 6175,
+      "rewardCrystals": 1235,
+      "rewardFame": 308,
+      "rewardXp": 2800
+    },
+    {
+      "wave": 136,
+      "enemyPower": 123200,
+      "rewardGold": 6220,
+      "rewardCrystals": 1244,
+      "rewardFame": 311,
+      "rewardXp": 2820
+    },
+    {
+      "wave": 137,
+      "enemyPower": 124100,
+      "rewardGold": 6265,
+      "rewardCrystals": 1253,
+      "rewardFame": 313,
+      "rewardXp": 2840
+    },
+    {
+      "wave": 138,
+      "enemyPower": 125000,
+      "rewardGold": 6310,
+      "rewardCrystals": 1262,
+      "rewardFame": 315,
+      "rewardXp": 2860
+    },
+    {
+      "wave": 139,
+      "enemyPower": 125900,
+      "rewardGold": 6355,
+      "rewardCrystals": 1271,
+      "rewardFame": 317,
+      "rewardXp": 2880
+    },
+    {
+      "wave": 140,
+      "enemyPower": 126800,
+      "rewardGold": 6400,
+      "rewardCrystals": 1280,
+      "rewardFame": 320,
+      "rewardXp": 2900
+    },
+    {
+      "wave": 141,
+      "enemyPower": 127700,
+      "rewardGold": 6445,
+      "rewardCrystals": 1289,
+      "rewardFame": 322,
+      "rewardXp": 2920
+    },
+    {
+      "wave": 142,
+      "enemyPower": 128600,
+      "rewardGold": 6490,
+      "rewardCrystals": 1298,
+      "rewardFame": 324,
+      "rewardXp": 2940
+    },
+    {
+      "wave": 143,
+      "enemyPower": 129500,
+      "rewardGold": 6535,
+      "rewardCrystals": 1307,
+      "rewardFame": 326,
+      "rewardXp": 2960
+    },
+    {
+      "wave": 144,
+      "enemyPower": 130400,
+      "rewardGold": 6580,
+      "rewardCrystals": 1316,
+      "rewardFame": 329,
+      "rewardXp": 2980
+    },
+    {
+      "wave": 145,
+      "enemyPower": 131300,
+      "rewardGold": 6625,
+      "rewardCrystals": 1325,
+      "rewardFame": 331,
+      "rewardXp": 3000
+    },
+    {
+      "wave": 146,
+      "enemyPower": 132200,
+      "rewardGold": 6670,
+      "rewardCrystals": 1334,
+      "rewardFame": 333,
+      "rewardXp": 3020
+    },
+    {
+      "wave": 147,
+      "enemyPower": 133100,
+      "rewardGold": 6715,
+      "rewardCrystals": 1343,
+      "rewardFame": 335,
+      "rewardXp": 3040
+    },
+    {
+      "wave": 148,
+      "enemyPower": 134000,
+      "rewardGold": 6760,
+      "rewardCrystals": 1352,
+      "rewardFame": 338,
+      "rewardXp": 3060
+    },
+    {
+      "wave": 149,
+      "enemyPower": 134900,
+      "rewardGold": 6805,
+      "rewardCrystals": 1361,
+      "rewardFame": 340,
+      "rewardXp": 3080
+    },
+    {
+      "wave": 150,
+      "enemyPower": 135800,
+      "rewardGold": 6850,
+      "rewardCrystals": 1370,
+      "rewardFame": 342,
+      "rewardXp": 3100
+    },
+    {
+      "wave": 151,
+      "enemyPower": 136700,
+      "rewardGold": 6895,
+      "rewardCrystals": 1379,
+      "rewardFame": 344,
+      "rewardXp": 3120
+    },
+    {
+      "wave": 152,
+      "enemyPower": 137600,
+      "rewardGold": 6940,
+      "rewardCrystals": 1388,
+      "rewardFame": 347,
+      "rewardXp": 3140
+    },
+    {
+      "wave": 153,
+      "enemyPower": 138500,
+      "rewardGold": 6985,
+      "rewardCrystals": 1397,
+      "rewardFame": 349,
+      "rewardXp": 3160
+    },
+    {
+      "wave": 154,
+      "enemyPower": 139400,
+      "rewardGold": 7030,
+      "rewardCrystals": 1406,
+      "rewardFame": 351,
+      "rewardXp": 3180
+    },
+    {
+      "wave": 155,
+      "enemyPower": 140300,
+      "rewardGold": 7075,
+      "rewardCrystals": 1415,
+      "rewardFame": 353,
+      "rewardXp": 3200
+    },
+    {
+      "wave": 156,
+      "enemyPower": 141200,
+      "rewardGold": 7120,
+      "rewardCrystals": 1424,
+      "rewardFame": 356,
+      "rewardXp": 3220
+    },
+    {
+      "wave": 157,
+      "enemyPower": 142100,
+      "rewardGold": 7165,
+      "rewardCrystals": 1433,
+      "rewardFame": 358,
+      "rewardXp": 3240
+    },
+    {
+      "wave": 158,
+      "enemyPower": 143000,
+      "rewardGold": 7210,
+      "rewardCrystals": 1442,
+      "rewardFame": 360,
+      "rewardXp": 3260
+    },
+    {
+      "wave": 159,
+      "enemyPower": 143900,
+      "rewardGold": 7255,
+      "rewardCrystals": 1451,
+      "rewardFame": 362,
+      "rewardXp": 3280
+    },
+    {
+      "wave": 160,
+      "enemyPower": 144800,
+      "rewardGold": 7300,
+      "rewardCrystals": 1460,
+      "rewardFame": 365,
+      "rewardXp": 3300
+    },
+    {
+      "wave": 161,
+      "enemyPower": 145700,
+      "rewardGold": 7345,
+      "rewardCrystals": 1469,
+      "rewardFame": 367,
+      "rewardXp": 3320
+    },
+    {
+      "wave": 162,
+      "enemyPower": 146600,
+      "rewardGold": 7390,
+      "rewardCrystals": 1478,
+      "rewardFame": 369,
+      "rewardXp": 3340
+    },
+    {
+      "wave": 163,
+      "enemyPower": 147500,
+      "rewardGold": 7435,
+      "rewardCrystals": 1487,
+      "rewardFame": 371,
+      "rewardXp": 3360
+    },
+    {
+      "wave": 164,
+      "enemyPower": 148400,
+      "rewardGold": 7480,
+      "rewardCrystals": 1496,
+      "rewardFame": 374,
+      "rewardXp": 3380
+    },
+    {
+      "wave": 165,
+      "enemyPower": 149300,
+      "rewardGold": 7525,
+      "rewardCrystals": 1505,
+      "rewardFame": 376,
+      "rewardXp": 3400
+    },
+    {
+      "wave": 166,
+      "enemyPower": 150200,
+      "rewardGold": 7570,
+      "rewardCrystals": 1514,
+      "rewardFame": 378,
+      "rewardXp": 3420
+    },
+    {
+      "wave": 167,
+      "enemyPower": 151100,
+      "rewardGold": 7615,
+      "rewardCrystals": 1523,
+      "rewardFame": 380,
+      "rewardXp": 3440
+    },
+    {
+      "wave": 168,
+      "enemyPower": 152000,
+      "rewardGold": 7660,
+      "rewardCrystals": 1532,
+      "rewardFame": 383,
+      "rewardXp": 3460
+    },
+    {
+      "wave": 169,
+      "enemyPower": 152900,
+      "rewardGold": 7705,
+      "rewardCrystals": 1541,
+      "rewardFame": 385,
+      "rewardXp": 3480
+    },
+    {
+      "wave": 170,
+      "enemyPower": 153800,
+      "rewardGold": 7750,
+      "rewardCrystals": 1550,
+      "rewardFame": 387,
+      "rewardXp": 3500
+    },
+    {
+      "wave": 171,
+      "enemyPower": 154700,
+      "rewardGold": 7795,
+      "rewardCrystals": 1559,
+      "rewardFame": 389,
+      "rewardXp": 3520
+    },
+    {
+      "wave": 172,
+      "enemyPower": 155600,
+      "rewardGold": 7840,
+      "rewardCrystals": 1568,
+      "rewardFame": 392,
+      "rewardXp": 3540
+    },
+    {
+      "wave": 173,
+      "enemyPower": 156500,
+      "rewardGold": 7885,
+      "rewardCrystals": 1577,
+      "rewardFame": 394,
+      "rewardXp": 3560
+    },
+    {
+      "wave": 174,
+      "enemyPower": 157400,
+      "rewardGold": 7930,
+      "rewardCrystals": 1586,
+      "rewardFame": 396,
+      "rewardXp": 3580
+    },
+    {
+      "wave": 175,
+      "enemyPower": 158300,
+      "rewardGold": 7975,
+      "rewardCrystals": 1595,
+      "rewardFame": 398,
+      "rewardXp": 3600
+    },
+    {
+      "wave": 176,
+      "enemyPower": 159200,
+      "rewardGold": 8020,
+      "rewardCrystals": 1604,
+      "rewardFame": 401,
+      "rewardXp": 3620
+    },
+    {
+      "wave": 177,
+      "enemyPower": 160100,
+      "rewardGold": 8065,
+      "rewardCrystals": 1613,
+      "rewardFame": 403,
+      "rewardXp": 3640
+    },
+    {
+      "wave": 178,
+      "enemyPower": 161000,
+      "rewardGold": 8110,
+      "rewardCrystals": 1622,
+      "rewardFame": 405,
+      "rewardXp": 3660
+    },
+    {
+      "wave": 179,
+      "enemyPower": 161900,
+      "rewardGold": 8155,
+      "rewardCrystals": 1631,
+      "rewardFame": 407,
+      "rewardXp": 3680
+    },
+    {
+      "wave": 180,
+      "enemyPower": 162800,
+      "rewardGold": 8200,
+      "rewardCrystals": 1640,
+      "rewardFame": 410,
+      "rewardXp": 3700
+    },
+    {
+      "wave": 181,
+      "enemyPower": 163700,
+      "rewardGold": 8245,
+      "rewardCrystals": 1649,
+      "rewardFame": 412,
+      "rewardXp": 3720
+    },
+    {
+      "wave": 182,
+      "enemyPower": 164600,
+      "rewardGold": 8290,
+      "rewardCrystals": 1658,
+      "rewardFame": 414,
+      "rewardXp": 3740
+    },
+    {
+      "wave": 183,
+      "enemyPower": 165500,
+      "rewardGold": 8335,
+      "rewardCrystals": 1667,
+      "rewardFame": 416,
+      "rewardXp": 3760
+    },
+    {
+      "wave": 184,
+      "enemyPower": 166400,
+      "rewardGold": 8380,
+      "rewardCrystals": 1676,
+      "rewardFame": 419,
+      "rewardXp": 3780
+    },
+    {
+      "wave": 185,
+      "enemyPower": 167300,
+      "rewardGold": 8425,
+      "rewardCrystals": 1685,
+      "rewardFame": 421,
+      "rewardXp": 3800
+    },
+    {
+      "wave": 186,
+      "enemyPower": 168200,
+      "rewardGold": 8470,
+      "rewardCrystals": 1694,
+      "rewardFame": 423,
+      "rewardXp": 3820
+    },
+    {
+      "wave": 187,
+      "enemyPower": 169100,
+      "rewardGold": 8515,
+      "rewardCrystals": 1703,
+      "rewardFame": 425,
+      "rewardXp": 3840
+    },
+    {
+      "wave": 188,
+      "enemyPower": 170000,
+      "rewardGold": 8560,
+      "rewardCrystals": 1712,
+      "rewardFame": 428,
+      "rewardXp": 3860
+    },
+    {
+      "wave": 189,
+      "enemyPower": 170900,
+      "rewardGold": 8605,
+      "rewardCrystals": 1721,
+      "rewardFame": 430,
+      "rewardXp": 3880
+    },
+    {
+      "wave": 190,
+      "enemyPower": 171800,
+      "rewardGold": 8650,
+      "rewardCrystals": 1730,
+      "rewardFame": 432,
+      "rewardXp": 3900
+    },
+    {
+      "wave": 191,
+      "enemyPower": 172700,
+      "rewardGold": 8695,
+      "rewardCrystals": 1739,
+      "rewardFame": 434,
+      "rewardXp": 3920
+    },
+    {
+      "wave": 192,
+      "enemyPower": 173600,
+      "rewardGold": 8740,
+      "rewardCrystals": 1748,
+      "rewardFame": 437,
+      "rewardXp": 3940
+    },
+    {
+      "wave": 193,
+      "enemyPower": 174500,
+      "rewardGold": 8785,
+      "rewardCrystals": 1757,
+      "rewardFame": 439,
+      "rewardXp": 3960
+    },
+    {
+      "wave": 194,
+      "enemyPower": 175400,
+      "rewardGold": 8830,
+      "rewardCrystals": 1766,
+      "rewardFame": 441,
+      "rewardXp": 3980
+    },
+    {
+      "wave": 195,
+      "enemyPower": 176300,
+      "rewardGold": 8875,
+      "rewardCrystals": 1775,
+      "rewardFame": 443,
+      "rewardXp": 4000
+    },
+    {
+      "wave": 196,
+      "enemyPower": 177200,
+      "rewardGold": 8920,
+      "rewardCrystals": 1784,
+      "rewardFame": 446,
+      "rewardXp": 4020
+    },
+    {
+      "wave": 197,
+      "enemyPower": 178100,
+      "rewardGold": 8965,
+      "rewardCrystals": 1793,
+      "rewardFame": 448,
+      "rewardXp": 4040
+    },
+    {
+      "wave": 198,
+      "enemyPower": 179000,
+      "rewardGold": 9010,
+      "rewardCrystals": 1802,
+      "rewardFame": 450,
+      "rewardXp": 4060
+    },
+    {
+      "wave": 199,
+      "enemyPower": 179900,
+      "rewardGold": 9055,
+      "rewardCrystals": 1811,
+      "rewardFame": 452,
+      "rewardXp": 4080
+    },
+    {
+      "wave": 200,
+      "enemyPower": 180800,
+      "rewardGold": 9100,
+      "rewardCrystals": 1820,
+      "rewardFame": 455,
+      "rewardXp": 4100
+    },
+    {
+      "wave": 201,
+      "enemyPower": 181700,
+      "rewardGold": 9145,
+      "rewardCrystals": 1829,
+      "rewardFame": 457,
+      "rewardXp": 4120
+    },
+    {
+      "wave": 202,
+      "enemyPower": 182600,
+      "rewardGold": 9190,
+      "rewardCrystals": 1838,
+      "rewardFame": 459,
+      "rewardXp": 4140
+    },
+    {
+      "wave": 203,
+      "enemyPower": 183500,
+      "rewardGold": 9235,
+      "rewardCrystals": 1847,
+      "rewardFame": 461,
+      "rewardXp": 4160
+    },
+    {
+      "wave": 204,
+      "enemyPower": 184400,
+      "rewardGold": 9280,
+      "rewardCrystals": 1856,
+      "rewardFame": 464,
+      "rewardXp": 4180
+    },
+    {
+      "wave": 205,
+      "enemyPower": 185300,
+      "rewardGold": 9325,
+      "rewardCrystals": 1865,
+      "rewardFame": 466,
+      "rewardXp": 4200
+    },
+    {
+      "wave": 206,
+      "enemyPower": 186200,
+      "rewardGold": 9370,
+      "rewardCrystals": 1874,
+      "rewardFame": 468,
+      "rewardXp": 4220
+    },
+    {
+      "wave": 207,
+      "enemyPower": 187100,
+      "rewardGold": 9415,
+      "rewardCrystals": 1883,
+      "rewardFame": 470,
+      "rewardXp": 4240
+    },
+    {
+      "wave": 208,
+      "enemyPower": 188000,
+      "rewardGold": 9460,
+      "rewardCrystals": 1892,
+      "rewardFame": 473,
+      "rewardXp": 4260
+    },
+    {
+      "wave": 209,
+      "enemyPower": 188900,
+      "rewardGold": 9505,
+      "rewardCrystals": 1901,
+      "rewardFame": 475,
+      "rewardXp": 4280
+    },
+    {
+      "wave": 210,
+      "enemyPower": 189800,
+      "rewardGold": 9550,
+      "rewardCrystals": 1910,
+      "rewardFame": 477,
+      "rewardXp": 4300
+    },
+    {
+      "wave": 211,
+      "enemyPower": 190700,
+      "rewardGold": 9595,
+      "rewardCrystals": 1919,
+      "rewardFame": 479,
+      "rewardXp": 4320
+    },
+    {
+      "wave": 212,
+      "enemyPower": 191600,
+      "rewardGold": 9640,
+      "rewardCrystals": 1928,
+      "rewardFame": 482,
+      "rewardXp": 4340
+    },
+    {
+      "wave": 213,
+      "enemyPower": 192500,
+      "rewardGold": 9685,
+      "rewardCrystals": 1937,
+      "rewardFame": 484,
+      "rewardXp": 4360
+    },
+    {
+      "wave": 214,
+      "enemyPower": 193400,
+      "rewardGold": 9730,
+      "rewardCrystals": 1946,
+      "rewardFame": 486,
+      "rewardXp": 4380
+    },
+    {
+      "wave": 215,
+      "enemyPower": 194300,
+      "rewardGold": 9775,
+      "rewardCrystals": 1955,
+      "rewardFame": 488,
+      "rewardXp": 4400
+    },
+    {
+      "wave": 216,
+      "enemyPower": 195200,
+      "rewardGold": 9820,
+      "rewardCrystals": 1964,
+      "rewardFame": 491,
+      "rewardXp": 4420
+    },
+    {
+      "wave": 217,
+      "enemyPower": 196100,
+      "rewardGold": 9865,
+      "rewardCrystals": 1973,
+      "rewardFame": 493,
+      "rewardXp": 4440
+    },
+    {
+      "wave": 218,
+      "enemyPower": 197000,
+      "rewardGold": 9910,
+      "rewardCrystals": 1982,
+      "rewardFame": 495,
+      "rewardXp": 4460
+    },
+    {
+      "wave": 219,
+      "enemyPower": 197900,
+      "rewardGold": 9955,
+      "rewardCrystals": 1991,
+      "rewardFame": 497,
+      "rewardXp": 4480
+    },
+    {
+      "wave": 220,
+      "enemyPower": 198800,
+      "rewardGold": 10000,
+      "rewardCrystals": 2000,
+      "rewardFame": 500,
+      "rewardXp": 4500
+    },
+    {
+      "wave": 221,
+      "enemyPower": 199700,
+      "rewardGold": 10045,
+      "rewardCrystals": 2009,
+      "rewardFame": 502,
+      "rewardXp": 4520
+    },
+    {
+      "wave": 222,
+      "enemyPower": 200600,
+      "rewardGold": 10090,
+      "rewardCrystals": 2018,
+      "rewardFame": 504,
+      "rewardXp": 4540
+    },
+    {
+      "wave": 223,
+      "enemyPower": 201500,
+      "rewardGold": 10135,
+      "rewardCrystals": 2027,
+      "rewardFame": 506,
+      "rewardXp": 4560
+    },
+    {
+      "wave": 224,
+      "enemyPower": 202400,
+      "rewardGold": 10180,
+      "rewardCrystals": 2036,
+      "rewardFame": 509,
+      "rewardXp": 4580
+    },
+    {
+      "wave": 225,
+      "enemyPower": 203300,
+      "rewardGold": 10225,
+      "rewardCrystals": 2045,
+      "rewardFame": 511,
+      "rewardXp": 4600
+    },
+    {
+      "wave": 226,
+      "enemyPower": 204200,
+      "rewardGold": 10270,
+      "rewardCrystals": 2054,
+      "rewardFame": 513,
+      "rewardXp": 4620
+    },
+    {
+      "wave": 227,
+      "enemyPower": 205100,
+      "rewardGold": 10315,
+      "rewardCrystals": 2063,
+      "rewardFame": 515,
+      "rewardXp": 4640
+    },
+    {
+      "wave": 228,
+      "enemyPower": 206000,
+      "rewardGold": 10360,
+      "rewardCrystals": 2072,
+      "rewardFame": 518,
+      "rewardXp": 4660
+    },
+    {
+      "wave": 229,
+      "enemyPower": 206900,
+      "rewardGold": 10405,
+      "rewardCrystals": 2081,
+      "rewardFame": 520,
+      "rewardXp": 4680
+    },
+    {
+      "wave": 230,
+      "enemyPower": 207800,
+      "rewardGold": 10450,
+      "rewardCrystals": 2090,
+      "rewardFame": 522,
+      "rewardXp": 4700
+    },
+    {
+      "wave": 231,
+      "enemyPower": 208700,
+      "rewardGold": 10495,
+      "rewardCrystals": 2099,
+      "rewardFame": 524,
+      "rewardXp": 4720
+    },
+    {
+      "wave": 232,
+      "enemyPower": 209600,
+      "rewardGold": 10540,
+      "rewardCrystals": 2108,
+      "rewardFame": 527,
+      "rewardXp": 4740
+    },
+    {
+      "wave": 233,
+      "enemyPower": 210500,
+      "rewardGold": 10585,
+      "rewardCrystals": 2117,
+      "rewardFame": 529,
+      "rewardXp": 4760
+    },
+    {
+      "wave": 234,
+      "enemyPower": 211400,
+      "rewardGold": 10630,
+      "rewardCrystals": 2126,
+      "rewardFame": 531,
+      "rewardXp": 4780
+    },
+    {
+      "wave": 235,
+      "enemyPower": 212300,
+      "rewardGold": 10675,
+      "rewardCrystals": 2135,
+      "rewardFame": 533,
+      "rewardXp": 4800
+    },
+    {
+      "wave": 236,
+      "enemyPower": 213200,
+      "rewardGold": 10720,
+      "rewardCrystals": 2144,
+      "rewardFame": 536,
+      "rewardXp": 4820
+    },
+    {
+      "wave": 237,
+      "enemyPower": 214100,
+      "rewardGold": 10765,
+      "rewardCrystals": 2153,
+      "rewardFame": 538,
+      "rewardXp": 4840
+    },
+    {
+      "wave": 238,
+      "enemyPower": 215000,
+      "rewardGold": 10810,
+      "rewardCrystals": 2162,
+      "rewardFame": 540,
+      "rewardXp": 4860
+    },
+    {
+      "wave": 239,
+      "enemyPower": 215900,
+      "rewardGold": 10855,
+      "rewardCrystals": 2171,
+      "rewardFame": 542,
+      "rewardXp": 4880
+    },
+    {
+      "wave": 240,
+      "enemyPower": 216800,
+      "rewardGold": 10900,
+      "rewardCrystals": 2180,
+      "rewardFame": 545,
+      "rewardXp": 4900
+    },
+    {
+      "wave": 241,
+      "enemyPower": 217700,
+      "rewardGold": 10945,
+      "rewardCrystals": 2189,
+      "rewardFame": 547,
+      "rewardXp": 4920
+    },
+    {
+      "wave": 242,
+      "enemyPower": 218600,
+      "rewardGold": 10990,
+      "rewardCrystals": 2198,
+      "rewardFame": 549,
+      "rewardXp": 4940
+    },
+    {
+      "wave": 243,
+      "enemyPower": 219500,
+      "rewardGold": 11035,
+      "rewardCrystals": 2207,
+      "rewardFame": 551,
+      "rewardXp": 4960
+    },
+    {
+      "wave": 244,
+      "enemyPower": 220400,
+      "rewardGold": 11080,
+      "rewardCrystals": 2216,
+      "rewardFame": 554,
+      "rewardXp": 4980
+    },
+    {
+      "wave": 245,
+      "enemyPower": 221300,
+      "rewardGold": 11125,
+      "rewardCrystals": 2225,
+      "rewardFame": 556,
+      "rewardXp": 5000
+    },
+    {
+      "wave": 246,
+      "enemyPower": 222200,
+      "rewardGold": 11170,
+      "rewardCrystals": 2234,
+      "rewardFame": 558,
+      "rewardXp": 5020
+    },
+    {
+      "wave": 247,
+      "enemyPower": 223100,
+      "rewardGold": 11215,
+      "rewardCrystals": 2243,
+      "rewardFame": 560,
+      "rewardXp": 5040
+    },
+    {
+      "wave": 248,
+      "enemyPower": 224000,
+      "rewardGold": 11260,
+      "rewardCrystals": 2252,
+      "rewardFame": 563,
+      "rewardXp": 5060
+    },
+    {
+      "wave": 249,
+      "enemyPower": 224900,
+      "rewardGold": 11305,
+      "rewardCrystals": 2261,
+      "rewardFame": 565,
+      "rewardXp": 5080
+    },
+    {
+      "wave": 250,
+      "enemyPower": 225800,
+      "rewardGold": 11350,
+      "rewardCrystals": 2270,
+      "rewardFame": 567,
+      "rewardXp": 5100
+    },
+    {
+      "wave": 251,
+      "enemyPower": 226700,
+      "rewardGold": 11395,
+      "rewardCrystals": 2279,
+      "rewardFame": 569,
+      "rewardXp": 5120
+    },
+    {
+      "wave": 252,
+      "enemyPower": 227600,
+      "rewardGold": 11440,
+      "rewardCrystals": 2288,
+      "rewardFame": 572,
+      "rewardXp": 5140
+    },
+    {
+      "wave": 253,
+      "enemyPower": 228500,
+      "rewardGold": 11485,
+      "rewardCrystals": 2297,
+      "rewardFame": 574,
+      "rewardXp": 5160
+    },
+    {
+      "wave": 254,
+      "enemyPower": 229400,
+      "rewardGold": 11530,
+      "rewardCrystals": 2306,
+      "rewardFame": 576,
+      "rewardXp": 5180
+    },
+    {
+      "wave": 255,
+      "enemyPower": 230300,
+      "rewardGold": 11575,
+      "rewardCrystals": 2315,
+      "rewardFame": 578,
+      "rewardXp": 5200
+    },
+    {
+      "wave": 256,
+      "enemyPower": 231200,
+      "rewardGold": 11620,
+      "rewardCrystals": 2324,
+      "rewardFame": 581,
+      "rewardXp": 5220
+    },
+    {
+      "wave": 257,
+      "enemyPower": 232100,
+      "rewardGold": 11665,
+      "rewardCrystals": 2333,
+      "rewardFame": 583,
+      "rewardXp": 5240
+    },
+    {
+      "wave": 258,
+      "enemyPower": 233000,
+      "rewardGold": 11710,
+      "rewardCrystals": 2342,
+      "rewardFame": 585,
+      "rewardXp": 5260
+    },
+    {
+      "wave": 259,
+      "enemyPower": 233900,
+      "rewardGold": 11755,
+      "rewardCrystals": 2351,
+      "rewardFame": 587,
+      "rewardXp": 5280
+    },
+    {
+      "wave": 260,
+      "enemyPower": 234800,
+      "rewardGold": 11800,
+      "rewardCrystals": 2360,
+      "rewardFame": 590,
+      "rewardXp": 5300
+    },
+    {
+      "wave": 261,
+      "enemyPower": 235700,
+      "rewardGold": 11845,
+      "rewardCrystals": 2369,
+      "rewardFame": 592,
+      "rewardXp": 5320
+    },
+    {
+      "wave": 262,
+      "enemyPower": 236600,
+      "rewardGold": 11890,
+      "rewardCrystals": 2378,
+      "rewardFame": 594,
+      "rewardXp": 5340
+    },
+    {
+      "wave": 263,
+      "enemyPower": 237500,
+      "rewardGold": 11935,
+      "rewardCrystals": 2387,
+      "rewardFame": 596,
+      "rewardXp": 5360
+    },
+    {
+      "wave": 264,
+      "enemyPower": 238400,
+      "rewardGold": 11980,
+      "rewardCrystals": 2396,
+      "rewardFame": 599,
+      "rewardXp": 5380
+    },
+    {
+      "wave": 265,
+      "enemyPower": 239300,
+      "rewardGold": 12025,
+      "rewardCrystals": 2405,
+      "rewardFame": 601,
+      "rewardXp": 5400
+    },
+    {
+      "wave": 266,
+      "enemyPower": 240200,
+      "rewardGold": 12070,
+      "rewardCrystals": 2414,
+      "rewardFame": 603,
+      "rewardXp": 5420
+    },
+    {
+      "wave": 267,
+      "enemyPower": 241100,
+      "rewardGold": 12115,
+      "rewardCrystals": 2423,
+      "rewardFame": 605,
+      "rewardXp": 5440
+    },
+    {
+      "wave": 268,
+      "enemyPower": 242000,
+      "rewardGold": 12160,
+      "rewardCrystals": 2432,
+      "rewardFame": 608,
+      "rewardXp": 5460
+    },
+    {
+      "wave": 269,
+      "enemyPower": 242900,
+      "rewardGold": 12205,
+      "rewardCrystals": 2441,
+      "rewardFame": 610,
+      "rewardXp": 5480
+    },
+    {
+      "wave": 270,
+      "enemyPower": 243800,
+      "rewardGold": 12250,
+      "rewardCrystals": 2450,
+      "rewardFame": 612,
+      "rewardXp": 5500
+    },
+    {
+      "wave": 271,
+      "enemyPower": 244700,
+      "rewardGold": 12295,
+      "rewardCrystals": 2459,
+      "rewardFame": 614,
+      "rewardXp": 5520
+    },
+    {
+      "wave": 272,
+      "enemyPower": 245600,
+      "rewardGold": 12340,
+      "rewardCrystals": 2468,
+      "rewardFame": 617,
+      "rewardXp": 5540
+    },
+    {
+      "wave": 273,
+      "enemyPower": 246500,
+      "rewardGold": 12385,
+      "rewardCrystals": 2477,
+      "rewardFame": 619,
+      "rewardXp": 5560
+    },
+    {
+      "wave": 274,
+      "enemyPower": 247400,
+      "rewardGold": 12430,
+      "rewardCrystals": 2486,
+      "rewardFame": 621,
+      "rewardXp": 5580
+    },
+    {
+      "wave": 275,
+      "enemyPower": 248300,
+      "rewardGold": 12475,
+      "rewardCrystals": 2495,
+      "rewardFame": 623,
+      "rewardXp": 5600
+    },
+    {
+      "wave": 276,
+      "enemyPower": 249200,
+      "rewardGold": 12520,
+      "rewardCrystals": 2504,
+      "rewardFame": 626,
+      "rewardXp": 5620
+    },
+    {
+      "wave": 277,
+      "enemyPower": 250100,
+      "rewardGold": 12565,
+      "rewardCrystals": 2513,
+      "rewardFame": 628,
+      "rewardXp": 5640
+    },
+    {
+      "wave": 278,
+      "enemyPower": 251000,
+      "rewardGold": 12610,
+      "rewardCrystals": 2522,
+      "rewardFame": 630,
+      "rewardXp": 5660
+    },
+    {
+      "wave": 279,
+      "enemyPower": 251900,
+      "rewardGold": 12655,
+      "rewardCrystals": 2531,
+      "rewardFame": 632,
+      "rewardXp": 5680
+    },
+    {
+      "wave": 280,
+      "enemyPower": 252800,
+      "rewardGold": 12700,
+      "rewardCrystals": 2540,
+      "rewardFame": 635,
+      "rewardXp": 5700
+    },
+    {
+      "wave": 281,
+      "enemyPower": 253700,
+      "rewardGold": 12745,
+      "rewardCrystals": 2549,
+      "rewardFame": 637,
+      "rewardXp": 5720
+    },
+    {
+      "wave": 282,
+      "enemyPower": 254600,
+      "rewardGold": 12790,
+      "rewardCrystals": 2558,
+      "rewardFame": 639,
+      "rewardXp": 5740
+    },
+    {
+      "wave": 283,
+      "enemyPower": 255500,
+      "rewardGold": 12835,
+      "rewardCrystals": 2567,
+      "rewardFame": 641,
+      "rewardXp": 5760
+    },
+    {
+      "wave": 284,
+      "enemyPower": 256400,
+      "rewardGold": 12880,
+      "rewardCrystals": 2576,
+      "rewardFame": 644,
+      "rewardXp": 5780
+    },
+    {
+      "wave": 285,
+      "enemyPower": 257300,
+      "rewardGold": 12925,
+      "rewardCrystals": 2585,
+      "rewardFame": 646,
+      "rewardXp": 5800
+    },
+    {
+      "wave": 286,
+      "enemyPower": 258200,
+      "rewardGold": 12970,
+      "rewardCrystals": 2594,
+      "rewardFame": 648,
+      "rewardXp": 5820
+    },
+    {
+      "wave": 287,
+      "enemyPower": 259100,
+      "rewardGold": 13015,
+      "rewardCrystals": 2603,
+      "rewardFame": 650,
+      "rewardXp": 5840
+    },
+    {
+      "wave": 288,
+      "enemyPower": 260000,
+      "rewardGold": 13060,
+      "rewardCrystals": 2612,
+      "rewardFame": 653,
+      "rewardXp": 5860
+    },
+    {
+      "wave": 289,
+      "enemyPower": 260900,
+      "rewardGold": 13105,
+      "rewardCrystals": 2621,
+      "rewardFame": 655,
+      "rewardXp": 5880
+    },
+    {
+      "wave": 290,
+      "enemyPower": 261800,
+      "rewardGold": 13150,
+      "rewardCrystals": 2630,
+      "rewardFame": 657,
+      "rewardXp": 5900
+    },
+    {
+      "wave": 291,
+      "enemyPower": 262700,
+      "rewardGold": 13195,
+      "rewardCrystals": 2639,
+      "rewardFame": 659,
+      "rewardXp": 5920
+    },
+    {
+      "wave": 292,
+      "enemyPower": 263600,
+      "rewardGold": 13240,
+      "rewardCrystals": 2648,
+      "rewardFame": 662,
+      "rewardXp": 5940
+    },
+    {
+      "wave": 293,
+      "enemyPower": 264500,
+      "rewardGold": 13285,
+      "rewardCrystals": 2657,
+      "rewardFame": 664,
+      "rewardXp": 5960
+    },
+    {
+      "wave": 294,
+      "enemyPower": 265400,
+      "rewardGold": 13330,
+      "rewardCrystals": 2666,
+      "rewardFame": 666,
+      "rewardXp": 5980
+    },
+    {
+      "wave": 295,
+      "enemyPower": 266300,
+      "rewardGold": 13375,
+      "rewardCrystals": 2675,
+      "rewardFame": 668,
+      "rewardXp": 6000
+    },
+    {
+      "wave": 296,
+      "enemyPower": 267200,
+      "rewardGold": 13420,
+      "rewardCrystals": 2684,
+      "rewardFame": 671,
+      "rewardXp": 6020
+    },
+    {
+      "wave": 297,
+      "enemyPower": 268100,
+      "rewardGold": 13465,
+      "rewardCrystals": 2693,
+      "rewardFame": 673,
+      "rewardXp": 6040
+    },
+    {
+      "wave": 298,
+      "enemyPower": 269000,
+      "rewardGold": 13510,
+      "rewardCrystals": 2702,
+      "rewardFame": 675,
+      "rewardXp": 6060
+    },
+    {
+      "wave": 299,
+      "enemyPower": 269900,
+      "rewardGold": 13555,
+      "rewardCrystals": 2711,
+      "rewardFame": 677,
+      "rewardXp": 6080
+    },
+    {
+      "wave": 300,
+      "enemyPower": 270800,
+      "rewardGold": 13600,
+      "rewardCrystals": 2720,
+      "rewardFame": 680,
+      "rewardXp": 6100
+    },
+    {
+      "wave": 301,
+      "enemyPower": 271700,
+      "rewardGold": 13645,
+      "rewardCrystals": 2729,
+      "rewardFame": 682,
+      "rewardXp": 6120
+    },
+    {
+      "wave": 302,
+      "enemyPower": 272600,
+      "rewardGold": 13690,
+      "rewardCrystals": 2738,
+      "rewardFame": 684,
+      "rewardXp": 6140
+    },
+    {
+      "wave": 303,
+      "enemyPower": 273500,
+      "rewardGold": 13735,
+      "rewardCrystals": 2747,
+      "rewardFame": 686,
+      "rewardXp": 6160
+    },
+    {
+      "wave": 304,
+      "enemyPower": 274400,
+      "rewardGold": 13780,
+      "rewardCrystals": 2756,
+      "rewardFame": 689,
+      "rewardXp": 6180
+    },
+    {
+      "wave": 305,
+      "enemyPower": 275300,
+      "rewardGold": 13825,
+      "rewardCrystals": 2765,
+      "rewardFame": 691,
+      "rewardXp": 6200
+    },
+    {
+      "wave": 306,
+      "enemyPower": 276200,
+      "rewardGold": 13870,
+      "rewardCrystals": 2774,
+      "rewardFame": 693,
+      "rewardXp": 6220
+    },
+    {
+      "wave": 307,
+      "enemyPower": 277100,
+      "rewardGold": 13915,
+      "rewardCrystals": 2783,
+      "rewardFame": 695,
+      "rewardXp": 6240
+    },
+    {
+      "wave": 308,
+      "enemyPower": 278000,
+      "rewardGold": 13960,
+      "rewardCrystals": 2792,
+      "rewardFame": 698,
+      "rewardXp": 6260
+    },
+    {
+      "wave": 309,
+      "enemyPower": 278900,
+      "rewardGold": 14005,
+      "rewardCrystals": 2801,
+      "rewardFame": 700,
+      "rewardXp": 6280
+    },
+    {
+      "wave": 310,
+      "enemyPower": 279800,
+      "rewardGold": 14050,
+      "rewardCrystals": 2810,
+      "rewardFame": 702,
+      "rewardXp": 6300
+    },
+    {
+      "wave": 311,
+      "enemyPower": 280700,
+      "rewardGold": 14095,
+      "rewardCrystals": 2819,
+      "rewardFame": 704,
+      "rewardXp": 6320
+    },
+    {
+      "wave": 312,
+      "enemyPower": 281600,
+      "rewardGold": 14140,
+      "rewardCrystals": 2828,
+      "rewardFame": 707,
+      "rewardXp": 6340
+    },
+    {
+      "wave": 313,
+      "enemyPower": 282500,
+      "rewardGold": 14185,
+      "rewardCrystals": 2837,
+      "rewardFame": 709,
+      "rewardXp": 6360
+    },
+    {
+      "wave": 314,
+      "enemyPower": 283400,
+      "rewardGold": 14230,
+      "rewardCrystals": 2846,
+      "rewardFame": 711,
+      "rewardXp": 6380
+    },
+    {
+      "wave": 315,
+      "enemyPower": 284300,
+      "rewardGold": 14275,
+      "rewardCrystals": 2855,
+      "rewardFame": 713,
+      "rewardXp": 6400
+    },
+    {
+      "wave": 316,
+      "enemyPower": 285200,
+      "rewardGold": 14320,
+      "rewardCrystals": 2864,
+      "rewardFame": 716,
+      "rewardXp": 6420
+    },
+    {
+      "wave": 317,
+      "enemyPower": 286100,
+      "rewardGold": 14365,
+      "rewardCrystals": 2873,
+      "rewardFame": 718,
+      "rewardXp": 6440
+    },
+    {
+      "wave": 318,
+      "enemyPower": 287000,
+      "rewardGold": 14410,
+      "rewardCrystals": 2882,
+      "rewardFame": 720,
+      "rewardXp": 6460
+    },
+    {
+      "wave": 319,
+      "enemyPower": 287900,
+      "rewardGold": 14455,
+      "rewardCrystals": 2891,
+      "rewardFame": 722,
+      "rewardXp": 6480
+    },
+    {
+      "wave": 320,
+      "enemyPower": 288800,
+      "rewardGold": 14500,
+      "rewardCrystals": 2900,
+      "rewardFame": 725,
+      "rewardXp": 6500
+    },
+    {
+      "wave": 321,
+      "enemyPower": 289700,
+      "rewardGold": 14545,
+      "rewardCrystals": 2909,
+      "rewardFame": 727,
+      "rewardXp": 6520
+    },
+    {
+      "wave": 322,
+      "enemyPower": 290600,
+      "rewardGold": 14590,
+      "rewardCrystals": 2918,
+      "rewardFame": 729,
+      "rewardXp": 6540
+    },
+    {
+      "wave": 323,
+      "enemyPower": 291500,
+      "rewardGold": 14635,
+      "rewardCrystals": 2927,
+      "rewardFame": 731,
+      "rewardXp": 6560
+    },
+    {
+      "wave": 324,
+      "enemyPower": 292400,
+      "rewardGold": 14680,
+      "rewardCrystals": 2936,
+      "rewardFame": 734,
+      "rewardXp": 6580
+    },
+    {
+      "wave": 325,
+      "enemyPower": 293300,
+      "rewardGold": 14725,
+      "rewardCrystals": 2945,
+      "rewardFame": 736,
+      "rewardXp": 6600
+    },
+    {
+      "wave": 326,
+      "enemyPower": 294200,
+      "rewardGold": 14770,
+      "rewardCrystals": 2954,
+      "rewardFame": 738,
+      "rewardXp": 6620
+    },
+    {
+      "wave": 327,
+      "enemyPower": 295100,
+      "rewardGold": 14815,
+      "rewardCrystals": 2963,
+      "rewardFame": 740,
+      "rewardXp": 6640
+    },
+    {
+      "wave": 328,
+      "enemyPower": 296000,
+      "rewardGold": 14860,
+      "rewardCrystals": 2972,
+      "rewardFame": 743,
+      "rewardXp": 6660
+    },
+    {
+      "wave": 329,
+      "enemyPower": 296900,
+      "rewardGold": 14905,
+      "rewardCrystals": 2981,
+      "rewardFame": 745,
+      "rewardXp": 6680
+    },
+    {
+      "wave": 330,
+      "enemyPower": 297800,
+      "rewardGold": 14950,
+      "rewardCrystals": 2990,
+      "rewardFame": 747,
+      "rewardXp": 6700
+    },
+    {
+      "wave": 331,
+      "enemyPower": 298700,
+      "rewardGold": 14995,
+      "rewardCrystals": 2999,
+      "rewardFame": 749,
+      "rewardXp": 6720
+    },
+    {
+      "wave": 332,
+      "enemyPower": 299600,
+      "rewardGold": 15040,
+      "rewardCrystals": 3008,
+      "rewardFame": 752,
+      "rewardXp": 6740
+    },
+    {
+      "wave": 333,
+      "enemyPower": 300500,
+      "rewardGold": 15085,
+      "rewardCrystals": 3017,
+      "rewardFame": 754,
+      "rewardXp": 6760
+    },
+    {
+      "wave": 334,
+      "enemyPower": 301400,
+      "rewardGold": 15130,
+      "rewardCrystals": 3026,
+      "rewardFame": 756,
+      "rewardXp": 6780
+    },
+    {
+      "wave": 335,
+      "enemyPower": 302300,
+      "rewardGold": 15175,
+      "rewardCrystals": 3035,
+      "rewardFame": 758,
+      "rewardXp": 6800
+    },
+    {
+      "wave": 336,
+      "enemyPower": 303200,
+      "rewardGold": 15220,
+      "rewardCrystals": 3044,
+      "rewardFame": 761,
+      "rewardXp": 6820
+    },
+    {
+      "wave": 337,
+      "enemyPower": 304100,
+      "rewardGold": 15265,
+      "rewardCrystals": 3053,
+      "rewardFame": 763,
+      "rewardXp": 6840
+    },
+    {
+      "wave": 338,
+      "enemyPower": 305000,
+      "rewardGold": 15310,
+      "rewardCrystals": 3062,
+      "rewardFame": 765,
+      "rewardXp": 6860
+    },
+    {
+      "wave": 339,
+      "enemyPower": 305900,
+      "rewardGold": 15355,
+      "rewardCrystals": 3071,
+      "rewardFame": 767,
+      "rewardXp": 6880
+    },
+    {
+      "wave": 340,
+      "enemyPower": 306800,
+      "rewardGold": 15400,
+      "rewardCrystals": 3080,
+      "rewardFame": 770,
+      "rewardXp": 6900
+    },
+    {
+      "wave": 341,
+      "enemyPower": 307700,
+      "rewardGold": 15445,
+      "rewardCrystals": 3089,
+      "rewardFame": 772,
+      "rewardXp": 6920
+    },
+    {
+      "wave": 342,
+      "enemyPower": 308600,
+      "rewardGold": 15490,
+      "rewardCrystals": 3098,
+      "rewardFame": 774,
+      "rewardXp": 6940
+    },
+    {
+      "wave": 343,
+      "enemyPower": 309500,
+      "rewardGold": 15535,
+      "rewardCrystals": 3107,
+      "rewardFame": 776,
+      "rewardXp": 6960
+    },
+    {
+      "wave": 344,
+      "enemyPower": 310400,
+      "rewardGold": 15580,
+      "rewardCrystals": 3116,
+      "rewardFame": 779,
+      "rewardXp": 6980
+    },
+    {
+      "wave": 345,
+      "enemyPower": 311300,
+      "rewardGold": 15625,
+      "rewardCrystals": 3125,
+      "rewardFame": 781,
+      "rewardXp": 7000
+    },
+    {
+      "wave": 346,
+      "enemyPower": 312200,
+      "rewardGold": 15670,
+      "rewardCrystals": 3134,
+      "rewardFame": 783,
+      "rewardXp": 7020
+    },
+    {
+      "wave": 347,
+      "enemyPower": 313100,
+      "rewardGold": 15715,
+      "rewardCrystals": 3143,
+      "rewardFame": 785,
+      "rewardXp": 7040
+    },
+    {
+      "wave": 348,
+      "enemyPower": 314000,
+      "rewardGold": 15760,
+      "rewardCrystals": 3152,
+      "rewardFame": 788,
+      "rewardXp": 7060
+    },
+    {
+      "wave": 349,
+      "enemyPower": 314900,
+      "rewardGold": 15805,
+      "rewardCrystals": 3161,
+      "rewardFame": 790,
+      "rewardXp": 7080
+    },
+    {
+      "wave": 350,
+      "enemyPower": 315800,
+      "rewardGold": 15850,
+      "rewardCrystals": 3170,
+      "rewardFame": 792,
+      "rewardXp": 7100
+    },
+    {
+      "wave": 351,
+      "enemyPower": 316700,
+      "rewardGold": 15895,
+      "rewardCrystals": 3179,
+      "rewardFame": 794,
+      "rewardXp": 7120
+    },
+    {
+      "wave": 352,
+      "enemyPower": 317600,
+      "rewardGold": 15940,
+      "rewardCrystals": 3188,
+      "rewardFame": 797,
+      "rewardXp": 7140
+    },
+    {
+      "wave": 353,
+      "enemyPower": 318500,
+      "rewardGold": 15985,
+      "rewardCrystals": 3197,
+      "rewardFame": 799,
+      "rewardXp": 7160
+    },
+    {
+      "wave": 354,
+      "enemyPower": 319400,
+      "rewardGold": 16030,
+      "rewardCrystals": 3206,
+      "rewardFame": 801,
+      "rewardXp": 7180
+    },
+    {
+      "wave": 355,
+      "enemyPower": 320300,
+      "rewardGold": 16075,
+      "rewardCrystals": 3215,
+      "rewardFame": 803,
+      "rewardXp": 7200
+    },
+    {
+      "wave": 356,
+      "enemyPower": 321200,
+      "rewardGold": 16120,
+      "rewardCrystals": 3224,
+      "rewardFame": 806,
+      "rewardXp": 7220
+    },
+    {
+      "wave": 357,
+      "enemyPower": 322100,
+      "rewardGold": 16165,
+      "rewardCrystals": 3233,
+      "rewardFame": 808,
+      "rewardXp": 7240
+    },
+    {
+      "wave": 358,
+      "enemyPower": 323000,
+      "rewardGold": 16210,
+      "rewardCrystals": 3242,
+      "rewardFame": 810,
+      "rewardXp": 7260
+    },
+    {
+      "wave": 359,
+      "enemyPower": 323900,
+      "rewardGold": 16255,
+      "rewardCrystals": 3251,
+      "rewardFame": 812,
+      "rewardXp": 7280
+    },
+    {
+      "wave": 360,
+      "enemyPower": 324800,
+      "rewardGold": 16300,
+      "rewardCrystals": 3260,
+      "rewardFame": 815,
+      "rewardXp": 7300
+    },
+    {
+      "wave": 361,
+      "enemyPower": 325700,
+      "rewardGold": 16345,
+      "rewardCrystals": 3269,
+      "rewardFame": 817,
+      "rewardXp": 7320
+    },
+    {
+      "wave": 362,
+      "enemyPower": 326600,
+      "rewardGold": 16390,
+      "rewardCrystals": 3278,
+      "rewardFame": 819,
+      "rewardXp": 7340
+    },
+    {
+      "wave": 363,
+      "enemyPower": 327500,
+      "rewardGold": 16435,
+      "rewardCrystals": 3287,
+      "rewardFame": 821,
+      "rewardXp": 7360
+    },
+    {
+      "wave": 364,
+      "enemyPower": 328400,
+      "rewardGold": 16480,
+      "rewardCrystals": 3296,
+      "rewardFame": 824,
+      "rewardXp": 7380
+    },
+    {
+      "wave": 365,
+      "enemyPower": 329300,
+      "rewardGold": 16525,
+      "rewardCrystals": 3305,
+      "rewardFame": 826,
+      "rewardXp": 7400
+    },
+    {
+      "wave": 366,
+      "enemyPower": 330200,
+      "rewardGold": 16570,
+      "rewardCrystals": 3314,
+      "rewardFame": 828,
+      "rewardXp": 7420
+    },
+    {
+      "wave": 367,
+      "enemyPower": 331100,
+      "rewardGold": 16615,
+      "rewardCrystals": 3323,
+      "rewardFame": 830,
+      "rewardXp": 7440
+    },
+    {
+      "wave": 368,
+      "enemyPower": 332000,
+      "rewardGold": 16660,
+      "rewardCrystals": 3332,
+      "rewardFame": 833,
+      "rewardXp": 7460
+    },
+    {
+      "wave": 369,
+      "enemyPower": 332900,
+      "rewardGold": 16705,
+      "rewardCrystals": 3341,
+      "rewardFame": 835,
+      "rewardXp": 7480
+    },
+    {
+      "wave": 370,
+      "enemyPower": 333800,
+      "rewardGold": 16750,
+      "rewardCrystals": 3350,
+      "rewardFame": 837,
+      "rewardXp": 7500
+    },
+    {
+      "wave": 371,
+      "enemyPower": 334700,
+      "rewardGold": 16795,
+      "rewardCrystals": 3359,
+      "rewardFame": 839,
+      "rewardXp": 7520
+    },
+    {
+      "wave": 372,
+      "enemyPower": 335600,
+      "rewardGold": 16840,
+      "rewardCrystals": 3368,
+      "rewardFame": 842,
+      "rewardXp": 7540
+    },
+    {
+      "wave": 373,
+      "enemyPower": 336500,
+      "rewardGold": 16885,
+      "rewardCrystals": 3377,
+      "rewardFame": 844,
+      "rewardXp": 7560
+    },
+    {
+      "wave": 374,
+      "enemyPower": 337400,
+      "rewardGold": 16930,
+      "rewardCrystals": 3386,
+      "rewardFame": 846,
+      "rewardXp": 7580
+    },
+    {
+      "wave": 375,
+      "enemyPower": 338300,
+      "rewardGold": 16975,
+      "rewardCrystals": 3395,
+      "rewardFame": 848,
+      "rewardXp": 7600
+    },
+    {
+      "wave": 376,
+      "enemyPower": 339200,
+      "rewardGold": 17020,
+      "rewardCrystals": 3404,
+      "rewardFame": 851,
+      "rewardXp": 7620
+    },
+    {
+      "wave": 377,
+      "enemyPower": 340100,
+      "rewardGold": 17065,
+      "rewardCrystals": 3413,
+      "rewardFame": 853,
+      "rewardXp": 7640
+    },
+    {
+      "wave": 378,
+      "enemyPower": 341000,
+      "rewardGold": 17110,
+      "rewardCrystals": 3422,
+      "rewardFame": 855,
+      "rewardXp": 7660
+    },
+    {
+      "wave": 379,
+      "enemyPower": 341900,
+      "rewardGold": 17155,
+      "rewardCrystals": 3431,
+      "rewardFame": 857,
+      "rewardXp": 7680
+    },
+    {
+      "wave": 380,
+      "enemyPower": 342800,
+      "rewardGold": 17200,
+      "rewardCrystals": 3440,
+      "rewardFame": 860,
+      "rewardXp": 7700
+    },
+    {
+      "wave": 381,
+      "enemyPower": 343700,
+      "rewardGold": 17245,
+      "rewardCrystals": 3449,
+      "rewardFame": 862,
+      "rewardXp": 7720
+    },
+    {
+      "wave": 382,
+      "enemyPower": 344600,
+      "rewardGold": 17290,
+      "rewardCrystals": 3458,
+      "rewardFame": 864,
+      "rewardXp": 7740
+    },
+    {
+      "wave": 383,
+      "enemyPower": 345500,
+      "rewardGold": 17335,
+      "rewardCrystals": 3467,
+      "rewardFame": 866,
+      "rewardXp": 7760
+    },
+    {
+      "wave": 384,
+      "enemyPower": 346400,
+      "rewardGold": 17380,
+      "rewardCrystals": 3476,
+      "rewardFame": 869,
+      "rewardXp": 7780
+    },
+    {
+      "wave": 385,
+      "enemyPower": 347300,
+      "rewardGold": 17425,
+      "rewardCrystals": 3485,
+      "rewardFame": 871,
+      "rewardXp": 7800
+    },
+    {
+      "wave": 386,
+      "enemyPower": 348200,
+      "rewardGold": 17470,
+      "rewardCrystals": 3494,
+      "rewardFame": 873,
+      "rewardXp": 7820
+    },
+    {
+      "wave": 387,
+      "enemyPower": 349100,
+      "rewardGold": 17515,
+      "rewardCrystals": 3503,
+      "rewardFame": 875,
+      "rewardXp": 7840
+    },
+    {
+      "wave": 388,
+      "enemyPower": 350000,
+      "rewardGold": 17560,
+      "rewardCrystals": 3512,
+      "rewardFame": 878,
+      "rewardXp": 7860
+    },
+    {
+      "wave": 389,
+      "enemyPower": 350900,
+      "rewardGold": 17605,
+      "rewardCrystals": 3521,
+      "rewardFame": 880,
+      "rewardXp": 7880
+    },
+    {
+      "wave": 390,
+      "enemyPower": 351800,
+      "rewardGold": 17650,
+      "rewardCrystals": 3530,
+      "rewardFame": 882,
+      "rewardXp": 7900
+    },
+    {
+      "wave": 391,
+      "enemyPower": 352700,
+      "rewardGold": 17695,
+      "rewardCrystals": 3539,
+      "rewardFame": 884,
+      "rewardXp": 7920
+    },
+    {
+      "wave": 392,
+      "enemyPower": 353600,
+      "rewardGold": 17740,
+      "rewardCrystals": 3548,
+      "rewardFame": 887,
+      "rewardXp": 7940
+    },
+    {
+      "wave": 393,
+      "enemyPower": 354500,
+      "rewardGold": 17785,
+      "rewardCrystals": 3557,
+      "rewardFame": 889,
+      "rewardXp": 7960
+    },
+    {
+      "wave": 394,
+      "enemyPower": 355400,
+      "rewardGold": 17830,
+      "rewardCrystals": 3566,
+      "rewardFame": 891,
+      "rewardXp": 7980
+    },
+    {
+      "wave": 395,
+      "enemyPower": 356300,
+      "rewardGold": 17875,
+      "rewardCrystals": 3575,
+      "rewardFame": 893,
+      "rewardXp": 8000
+    },
+    {
+      "wave": 396,
+      "enemyPower": 357200,
+      "rewardGold": 17920,
+      "rewardCrystals": 3584,
+      "rewardFame": 896,
+      "rewardXp": 8020
+    },
+    {
+      "wave": 397,
+      "enemyPower": 358100,
+      "rewardGold": 17965,
+      "rewardCrystals": 3593,
+      "rewardFame": 898,
+      "rewardXp": 8040
+    },
+    {
+      "wave": 398,
+      "enemyPower": 359000,
+      "rewardGold": 18010,
+      "rewardCrystals": 3602,
+      "rewardFame": 900,
+      "rewardXp": 8060
+    },
+    {
+      "wave": 399,
+      "enemyPower": 359900,
+      "rewardGold": 18055,
+      "rewardCrystals": 3611,
+      "rewardFame": 902,
+      "rewardXp": 8080
+    },
+    {
+      "wave": 400,
+      "enemyPower": 360800,
+      "rewardGold": 18100,
+      "rewardCrystals": 3620,
+      "rewardFame": 905,
+      "rewardXp": 8100
+    },
+    {
+      "wave": 401,
+      "enemyPower": 361700,
+      "rewardGold": 18145,
+      "rewardCrystals": 3629,
+      "rewardFame": 907,
+      "rewardXp": 8120
+    },
+    {
+      "wave": 402,
+      "enemyPower": 362600,
+      "rewardGold": 18190,
+      "rewardCrystals": 3638,
+      "rewardFame": 909,
+      "rewardXp": 8140
+    },
+    {
+      "wave": 403,
+      "enemyPower": 363500,
+      "rewardGold": 18235,
+      "rewardCrystals": 3647,
+      "rewardFame": 911,
+      "rewardXp": 8160
+    },
+    {
+      "wave": 404,
+      "enemyPower": 364400,
+      "rewardGold": 18280,
+      "rewardCrystals": 3656,
+      "rewardFame": 914,
+      "rewardXp": 8180
+    },
+    {
+      "wave": 405,
+      "enemyPower": 365300,
+      "rewardGold": 18325,
+      "rewardCrystals": 3665,
+      "rewardFame": 916,
+      "rewardXp": 8200
+    },
+    {
+      "wave": 406,
+      "enemyPower": 366200,
+      "rewardGold": 18370,
+      "rewardCrystals": 3674,
+      "rewardFame": 918,
+      "rewardXp": 8220
+    },
+    {
+      "wave": 407,
+      "enemyPower": 367100,
+      "rewardGold": 18415,
+      "rewardCrystals": 3683,
+      "rewardFame": 920,
+      "rewardXp": 8240
+    },
+    {
+      "wave": 408,
+      "enemyPower": 368000,
+      "rewardGold": 18460,
+      "rewardCrystals": 3692,
+      "rewardFame": 923,
+      "rewardXp": 8260
+    },
+    {
+      "wave": 409,
+      "enemyPower": 368900,
+      "rewardGold": 18505,
+      "rewardCrystals": 3701,
+      "rewardFame": 925,
+      "rewardXp": 8280
+    },
+    {
+      "wave": 410,
+      "enemyPower": 369800,
+      "rewardGold": 18550,
+      "rewardCrystals": 3710,
+      "rewardFame": 927,
+      "rewardXp": 8300
+    },
+    {
+      "wave": 411,
+      "enemyPower": 370700,
+      "rewardGold": 18595,
+      "rewardCrystals": 3719,
+      "rewardFame": 929,
+      "rewardXp": 8320
+    },
+    {
+      "wave": 412,
+      "enemyPower": 371600,
+      "rewardGold": 18640,
+      "rewardCrystals": 3728,
+      "rewardFame": 932,
+      "rewardXp": 8340
+    },
+    {
+      "wave": 413,
+      "enemyPower": 372500,
+      "rewardGold": 18685,
+      "rewardCrystals": 3737,
+      "rewardFame": 934,
+      "rewardXp": 8360
+    },
+    {
+      "wave": 414,
+      "enemyPower": 373400,
+      "rewardGold": 18730,
+      "rewardCrystals": 3746,
+      "rewardFame": 936,
+      "rewardXp": 8380
+    },
+    {
+      "wave": 415,
+      "enemyPower": 374300,
+      "rewardGold": 18775,
+      "rewardCrystals": 3755,
+      "rewardFame": 938,
+      "rewardXp": 8400
+    },
+    {
+      "wave": 416,
+      "enemyPower": 375200,
+      "rewardGold": 18820,
+      "rewardCrystals": 3764,
+      "rewardFame": 941,
+      "rewardXp": 8420
+    },
+    {
+      "wave": 417,
+      "enemyPower": 376100,
+      "rewardGold": 18865,
+      "rewardCrystals": 3773,
+      "rewardFame": 943,
+      "rewardXp": 8440
+    },
+    {
+      "wave": 418,
+      "enemyPower": 377000,
+      "rewardGold": 18910,
+      "rewardCrystals": 3782,
+      "rewardFame": 945,
+      "rewardXp": 8460
+    },
+    {
+      "wave": 419,
+      "enemyPower": 377900,
+      "rewardGold": 18955,
+      "rewardCrystals": 3791,
+      "rewardFame": 947,
+      "rewardXp": 8480
+    },
+    {
+      "wave": 420,
+      "enemyPower": 378800,
+      "rewardGold": 19000,
+      "rewardCrystals": 3800,
+      "rewardFame": 950,
+      "rewardXp": 8500
+    },
+    {
+      "wave": 421,
+      "enemyPower": 379700,
+      "rewardGold": 19045,
+      "rewardCrystals": 3809,
+      "rewardFame": 952,
+      "rewardXp": 8520
+    },
+    {
+      "wave": 422,
+      "enemyPower": 380600,
+      "rewardGold": 19090,
+      "rewardCrystals": 3818,
+      "rewardFame": 954,
+      "rewardXp": 8540
+    },
+    {
+      "wave": 423,
+      "enemyPower": 381500,
+      "rewardGold": 19135,
+      "rewardCrystals": 3827,
+      "rewardFame": 956,
+      "rewardXp": 8560
+    },
+    {
+      "wave": 424,
+      "enemyPower": 382400,
+      "rewardGold": 19180,
+      "rewardCrystals": 3836,
+      "rewardFame": 959,
+      "rewardXp": 8580
+    },
+    {
+      "wave": 425,
+      "enemyPower": 383300,
+      "rewardGold": 19225,
+      "rewardCrystals": 3845,
+      "rewardFame": 961,
+      "rewardXp": 8600
+    },
+    {
+      "wave": 426,
+      "enemyPower": 384200,
+      "rewardGold": 19270,
+      "rewardCrystals": 3854,
+      "rewardFame": 963,
+      "rewardXp": 8620
+    },
+    {
+      "wave": 427,
+      "enemyPower": 385100,
+      "rewardGold": 19315,
+      "rewardCrystals": 3863,
+      "rewardFame": 965,
+      "rewardXp": 8640
+    },
+    {
+      "wave": 428,
+      "enemyPower": 386000,
+      "rewardGold": 19360,
+      "rewardCrystals": 3872,
+      "rewardFame": 968,
+      "rewardXp": 8660
+    },
+    {
+      "wave": 429,
+      "enemyPower": 386900,
+      "rewardGold": 19405,
+      "rewardCrystals": 3881,
+      "rewardFame": 970,
+      "rewardXp": 8680
+    },
+    {
+      "wave": 430,
+      "enemyPower": 387800,
+      "rewardGold": 19450,
+      "rewardCrystals": 3890,
+      "rewardFame": 972,
+      "rewardXp": 8700
+    },
+    {
+      "wave": 431,
+      "enemyPower": 388700,
+      "rewardGold": 19495,
+      "rewardCrystals": 3899,
+      "rewardFame": 974,
+      "rewardXp": 8720
+    },
+    {
+      "wave": 432,
+      "enemyPower": 389600,
+      "rewardGold": 19540,
+      "rewardCrystals": 3908,
+      "rewardFame": 977,
+      "rewardXp": 8740
+    },
+    {
+      "wave": 433,
+      "enemyPower": 390500,
+      "rewardGold": 19585,
+      "rewardCrystals": 3917,
+      "rewardFame": 979,
+      "rewardXp": 8760
+    },
+    {
+      "wave": 434,
+      "enemyPower": 391400,
+      "rewardGold": 19630,
+      "rewardCrystals": 3926,
+      "rewardFame": 981,
+      "rewardXp": 8780
+    },
+    {
+      "wave": 435,
+      "enemyPower": 392300,
+      "rewardGold": 19675,
+      "rewardCrystals": 3935,
+      "rewardFame": 983,
+      "rewardXp": 8800
+    },
+    {
+      "wave": 436,
+      "enemyPower": 393200,
+      "rewardGold": 19720,
+      "rewardCrystals": 3944,
+      "rewardFame": 986,
+      "rewardXp": 8820
+    },
+    {
+      "wave": 437,
+      "enemyPower": 394100,
+      "rewardGold": 19765,
+      "rewardCrystals": 3953,
+      "rewardFame": 988,
+      "rewardXp": 8840
+    },
+    {
+      "wave": 438,
+      "enemyPower": 395000,
+      "rewardGold": 19810,
+      "rewardCrystals": 3962,
+      "rewardFame": 990,
+      "rewardXp": 8860
+    },
+    {
+      "wave": 439,
+      "enemyPower": 395900,
+      "rewardGold": 19855,
+      "rewardCrystals": 3971,
+      "rewardFame": 992,
+      "rewardXp": 8880
+    },
+    {
+      "wave": 440,
+      "enemyPower": 396800,
+      "rewardGold": 19900,
+      "rewardCrystals": 3980,
+      "rewardFame": 995,
+      "rewardXp": 8900
+    },
+    {
+      "wave": 441,
+      "enemyPower": 397700,
+      "rewardGold": 19945,
+      "rewardCrystals": 3989,
+      "rewardFame": 997,
+      "rewardXp": 8920
+    },
+    {
+      "wave": 442,
+      "enemyPower": 398600,
+      "rewardGold": 19990,
+      "rewardCrystals": 3998,
+      "rewardFame": 999,
+      "rewardXp": 8940
+    },
+    {
+      "wave": 443,
+      "enemyPower": 399500,
+      "rewardGold": 20035,
+      "rewardCrystals": 4007,
+      "rewardFame": 1001,
+      "rewardXp": 8960
+    },
+    {
+      "wave": 444,
+      "enemyPower": 400400,
+      "rewardGold": 20080,
+      "rewardCrystals": 4016,
+      "rewardFame": 1004,
+      "rewardXp": 8980
+    },
+    {
+      "wave": 445,
+      "enemyPower": 401300,
+      "rewardGold": 20125,
+      "rewardCrystals": 4025,
+      "rewardFame": 1006,
+      "rewardXp": 9000
+    },
+    {
+      "wave": 446,
+      "enemyPower": 402200,
+      "rewardGold": 20170,
+      "rewardCrystals": 4034,
+      "rewardFame": 1008,
+      "rewardXp": 9020
+    },
+    {
+      "wave": 447,
+      "enemyPower": 403100,
+      "rewardGold": 20215,
+      "rewardCrystals": 4043,
+      "rewardFame": 1010,
+      "rewardXp": 9040
+    },
+    {
+      "wave": 448,
+      "enemyPower": 404000,
+      "rewardGold": 20260,
+      "rewardCrystals": 4052,
+      "rewardFame": 1013,
+      "rewardXp": 9060
+    },
+    {
+      "wave": 449,
+      "enemyPower": 404900,
+      "rewardGold": 20305,
+      "rewardCrystals": 4061,
+      "rewardFame": 1015,
+      "rewardXp": 9080
+    },
+    {
+      "wave": 450,
+      "enemyPower": 405800,
+      "rewardGold": 20350,
+      "rewardCrystals": 4070,
+      "rewardFame": 1017,
+      "rewardXp": 9100
+    },
+    {
+      "wave": 451,
+      "enemyPower": 406700,
+      "rewardGold": 20395,
+      "rewardCrystals": 4079,
+      "rewardFame": 1019,
+      "rewardXp": 9120
+    },
+    {
+      "wave": 452,
+      "enemyPower": 407600,
+      "rewardGold": 20440,
+      "rewardCrystals": 4088,
+      "rewardFame": 1022,
+      "rewardXp": 9140
+    },
+    {
+      "wave": 453,
+      "enemyPower": 408500,
+      "rewardGold": 20485,
+      "rewardCrystals": 4097,
+      "rewardFame": 1024,
+      "rewardXp": 9160
+    },
+    {
+      "wave": 454,
+      "enemyPower": 409400,
+      "rewardGold": 20530,
+      "rewardCrystals": 4106,
+      "rewardFame": 1026,
+      "rewardXp": 9180
+    },
+    {
+      "wave": 455,
+      "enemyPower": 410300,
+      "rewardGold": 20575,
+      "rewardCrystals": 4115,
+      "rewardFame": 1028,
+      "rewardXp": 9200
+    },
+    {
+      "wave": 456,
+      "enemyPower": 411200,
+      "rewardGold": 20620,
+      "rewardCrystals": 4124,
+      "rewardFame": 1031,
+      "rewardXp": 9220
+    },
+    {
+      "wave": 457,
+      "enemyPower": 412100,
+      "rewardGold": 20665,
+      "rewardCrystals": 4133,
+      "rewardFame": 1033,
+      "rewardXp": 9240
+    },
+    {
+      "wave": 458,
+      "enemyPower": 413000,
+      "rewardGold": 20710,
+      "rewardCrystals": 4142,
+      "rewardFame": 1035,
+      "rewardXp": 9260
+    },
+    {
+      "wave": 459,
+      "enemyPower": 413900,
+      "rewardGold": 20755,
+      "rewardCrystals": 4151,
+      "rewardFame": 1037,
+      "rewardXp": 9280
+    },
+    {
+      "wave": 460,
+      "enemyPower": 414800,
+      "rewardGold": 20800,
+      "rewardCrystals": 4160,
+      "rewardFame": 1040,
+      "rewardXp": 9300
+    },
+    {
+      "wave": 461,
+      "enemyPower": 415700,
+      "rewardGold": 20845,
+      "rewardCrystals": 4169,
+      "rewardFame": 1042,
+      "rewardXp": 9320
+    },
+    {
+      "wave": 462,
+      "enemyPower": 416600,
+      "rewardGold": 20890,
+      "rewardCrystals": 4178,
+      "rewardFame": 1044,
+      "rewardXp": 9340
+    },
+    {
+      "wave": 463,
+      "enemyPower": 417500,
+      "rewardGold": 20935,
+      "rewardCrystals": 4187,
+      "rewardFame": 1046,
+      "rewardXp": 9360
+    },
+    {
+      "wave": 464,
+      "enemyPower": 418400,
+      "rewardGold": 20980,
+      "rewardCrystals": 4196,
+      "rewardFame": 1049,
+      "rewardXp": 9380
+    },
+    {
+      "wave": 465,
+      "enemyPower": 419300,
+      "rewardGold": 21025,
+      "rewardCrystals": 4205,
+      "rewardFame": 1051,
+      "rewardXp": 9400
+    },
+    {
+      "wave": 466,
+      "enemyPower": 420200,
+      "rewardGold": 21070,
+      "rewardCrystals": 4214,
+      "rewardFame": 1053,
+      "rewardXp": 9420
+    },
+    {
+      "wave": 467,
+      "enemyPower": 421100,
+      "rewardGold": 21115,
+      "rewardCrystals": 4223,
+      "rewardFame": 1055,
+      "rewardXp": 9440
+    },
+    {
+      "wave": 468,
+      "enemyPower": 422000,
+      "rewardGold": 21160,
+      "rewardCrystals": 4232,
+      "rewardFame": 1058,
+      "rewardXp": 9460
+    },
+    {
+      "wave": 469,
+      "enemyPower": 422900,
+      "rewardGold": 21205,
+      "rewardCrystals": 4241,
+      "rewardFame": 1060,
+      "rewardXp": 9480
+    },
+    {
+      "wave": 470,
+      "enemyPower": 423800,
+      "rewardGold": 21250,
+      "rewardCrystals": 4250,
+      "rewardFame": 1062,
+      "rewardXp": 9500
+    },
+    {
+      "wave": 471,
+      "enemyPower": 424700,
+      "rewardGold": 21295,
+      "rewardCrystals": 4259,
+      "rewardFame": 1064,
+      "rewardXp": 9520
+    },
+    {
+      "wave": 472,
+      "enemyPower": 425600,
+      "rewardGold": 21340,
+      "rewardCrystals": 4268,
+      "rewardFame": 1067,
+      "rewardXp": 9540
+    },
+    {
+      "wave": 473,
+      "enemyPower": 426500,
+      "rewardGold": 21385,
+      "rewardCrystals": 4277,
+      "rewardFame": 1069,
+      "rewardXp": 9560
+    },
+    {
+      "wave": 474,
+      "enemyPower": 427400,
+      "rewardGold": 21430,
+      "rewardCrystals": 4286,
+      "rewardFame": 1071,
+      "rewardXp": 9580
+    },
+    {
+      "wave": 475,
+      "enemyPower": 428300,
+      "rewardGold": 21475,
+      "rewardCrystals": 4295,
+      "rewardFame": 1073,
+      "rewardXp": 9600
+    },
+    {
+      "wave": 476,
+      "enemyPower": 429200,
+      "rewardGold": 21520,
+      "rewardCrystals": 4304,
+      "rewardFame": 1076,
+      "rewardXp": 9620
+    },
+    {
+      "wave": 477,
+      "enemyPower": 430100,
+      "rewardGold": 21565,
+      "rewardCrystals": 4313,
+      "rewardFame": 1078,
+      "rewardXp": 9640
+    },
+    {
+      "wave": 478,
+      "enemyPower": 431000,
+      "rewardGold": 21610,
+      "rewardCrystals": 4322,
+      "rewardFame": 1080,
+      "rewardXp": 9660
+    },
+    {
+      "wave": 479,
+      "enemyPower": 431900,
+      "rewardGold": 21655,
+      "rewardCrystals": 4331,
+      "rewardFame": 1082,
+      "rewardXp": 9680
+    },
+    {
+      "wave": 480,
+      "enemyPower": 432800,
+      "rewardGold": 21700,
+      "rewardCrystals": 4340,
+      "rewardFame": 1085,
+      "rewardXp": 9700
+    },
+    {
+      "wave": 481,
+      "enemyPower": 433700,
+      "rewardGold": 21745,
+      "rewardCrystals": 4349,
+      "rewardFame": 1087,
+      "rewardXp": 9720
+    },
+    {
+      "wave": 482,
+      "enemyPower": 434600,
+      "rewardGold": 21790,
+      "rewardCrystals": 4358,
+      "rewardFame": 1089,
+      "rewardXp": 9740
+    },
+    {
+      "wave": 483,
+      "enemyPower": 435500,
+      "rewardGold": 21835,
+      "rewardCrystals": 4367,
+      "rewardFame": 1091,
+      "rewardXp": 9760
+    },
+    {
+      "wave": 484,
+      "enemyPower": 436400,
+      "rewardGold": 21880,
+      "rewardCrystals": 4376,
+      "rewardFame": 1094,
+      "rewardXp": 9780
+    },
+    {
+      "wave": 485,
+      "enemyPower": 437300,
+      "rewardGold": 21925,
+      "rewardCrystals": 4385,
+      "rewardFame": 1096,
+      "rewardXp": 9800
+    },
+    {
+      "wave": 486,
+      "enemyPower": 438200,
+      "rewardGold": 21970,
+      "rewardCrystals": 4394,
+      "rewardFame": 1098,
+      "rewardXp": 9820
+    },
+    {
+      "wave": 487,
+      "enemyPower": 439100,
+      "rewardGold": 22015,
+      "rewardCrystals": 4403,
+      "rewardFame": 1100,
+      "rewardXp": 9840
+    },
+    {
+      "wave": 488,
+      "enemyPower": 440000,
+      "rewardGold": 22060,
+      "rewardCrystals": 4412,
+      "rewardFame": 1103,
+      "rewardXp": 9860
+    },
+    {
+      "wave": 489,
+      "enemyPower": 440900,
+      "rewardGold": 22105,
+      "rewardCrystals": 4421,
+      "rewardFame": 1105,
+      "rewardXp": 9880
+    },
+    {
+      "wave": 490,
+      "enemyPower": 441800,
+      "rewardGold": 22150,
+      "rewardCrystals": 4430,
+      "rewardFame": 1107,
+      "rewardXp": 9900
+    },
+    {
+      "wave": 491,
+      "enemyPower": 442700,
+      "rewardGold": 22195,
+      "rewardCrystals": 4439,
+      "rewardFame": 1109,
+      "rewardXp": 9920
+    },
+    {
+      "wave": 492,
+      "enemyPower": 443600,
+      "rewardGold": 22240,
+      "rewardCrystals": 4448,
+      "rewardFame": 1112,
+      "rewardXp": 9940
+    },
+    {
+      "wave": 493,
+      "enemyPower": 444500,
+      "rewardGold": 22285,
+      "rewardCrystals": 4457,
+      "rewardFame": 1114,
+      "rewardXp": 9960
+    },
+    {
+      "wave": 494,
+      "enemyPower": 445400,
+      "rewardGold": 22330,
+      "rewardCrystals": 4466,
+      "rewardFame": 1116,
+      "rewardXp": 9980
+    },
+    {
+      "wave": 495,
+      "enemyPower": 446300,
+      "rewardGold": 22375,
+      "rewardCrystals": 4475,
+      "rewardFame": 1118,
+      "rewardXp": 10000
+    },
+    {
+      "wave": 496,
+      "enemyPower": 447200,
+      "rewardGold": 22420,
+      "rewardCrystals": 4484,
+      "rewardFame": 1121,
+      "rewardXp": 10020
+    },
+    {
+      "wave": 497,
+      "enemyPower": 448100,
+      "rewardGold": 22465,
+      "rewardCrystals": 4493,
+      "rewardFame": 1123,
+      "rewardXp": 10040
+    },
+    {
+      "wave": 498,
+      "enemyPower": 449000,
+      "rewardGold": 22510,
+      "rewardCrystals": 4502,
+      "rewardFame": 1125,
+      "rewardXp": 10060
+    },
+    {
+      "wave": 499,
+      "enemyPower": 449900,
+      "rewardGold": 22555,
+      "rewardCrystals": 4511,
+      "rewardFame": 1127,
+      "rewardXp": 10080
+    },
+    {
+      "wave": 500,
+      "enemyPower": 450800,
+      "rewardGold": 22600,
+      "rewardCrystals": 4520,
+      "rewardFame": 1130,
+      "rewardXp": 10100
+    }
+  ],
+  "questDefinitions": [
+    {
+      "rarity": "Common",
+      "durationMinutes": 5,
+      "rewardGold": 100,
+      "rewardCrystals": 0,
+      "rewardFame": 0
+    },
+    {
+      "rarity": "Uncommon",
+      "durationMinutes": 15,
+      "rewardGold": 500,
+      "rewardCrystals": 0,
+      "rewardFame": 0
+    },
+    {
+      "rarity": "Rare",
+      "durationMinutes": 30,
+      "rewardGold": 1250,
+      "rewardCrystals": 500,
+      "rewardFame": 0
+    },
+    {
+      "rarity": "Epic",
+      "durationMinutes": 60,
+      "rewardGold": 2500,
+      "rewardCrystals": 1000,
+      "rewardFame": 100
+    },
+    {
+      "rarity": "Legendary",
+      "durationMinutes": 180,
+      "rewardGold": 12500,
+      "rewardCrystals": 5000,
+      "rewardFame": 500
+    },
+    {
+      "rarity": "Hero",
+      "durationMinutes": 360,
+      "rewardGold": 25000,
+      "rewardCrystals": 10000,
+      "rewardFame": 1000
+    }
+  ]
+}
